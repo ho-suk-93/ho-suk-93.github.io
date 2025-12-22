@@ -1,0 +1,23 @@
+title: "Ho Suk"
+description: "Ho Suk's Personal Website"
+url: ""        # 커스텀 도메인 쓰면 https://example.com
+baseurl: ""    # 보통 비워둠. (프로젝트 페이지면 "/repo-name")
+lang: "en"     # 필요하면 "ko"로 변경
+
+# 기본 설정
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# 깃허브 pages에서 안전한 플러그인만 사용 (추가 플러그인 불필요)
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+# 연락/링크 (표시만 해두고 index.md에서 필요에 맞게 사용)
+social:
+  email: "sukho93@yonsei.ac.kr"
+  github: "https://github.com/ho-suk-93"
+  scholar: "https://scholar.google.com/citations?user=OSkFZZAAAAAJ&hl=en"
+  linkedin: "https://www.linkedin.com/in/ho-suk-6652a7106/"
