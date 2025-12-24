@@ -12,48 +12,38 @@
 
   <body>
     <header class="site-header">
-      <div class="container">
+      <div class="container header-inner">
         <div class="brand">
           <a class="brand-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
-          <div class="brand-subtitle">{{ site.description }}</div>
+          {% if site.show_description %}
+            <div class="brand-subtitle">{{ site.description }}</div>
+          {% endif %}
         </div>
 
         <nav class="nav">
-          <a class="nav-link {% if page.url == '/' %}active{% endif %}" href="{{ '/' | relative_url }}">Home</a>
-
-          {% assign nav_pages = site.pages | where_exp: "p", "p.nav_order" | sort: "nav_order" %}
-          {% for p in nav_pages %}
-            {% if p.url != "/" %}
-              <a class="nav-link {% if page.url == p.url %}active{% endif %}" href="{{ p.url | relative_url }}">
-                {{ p.nav_title | default: p.title }}
-              </a>
-            {% endif %}
-          {% endfor %}
+          <a class="nav-link" href="#about">About</a>
+          <a class="nav-link" href="#research">Research</a>
+          <a class="nav-link" href="#publications">Publications</a>
+          <a class="nav-link" href="#projects">Projects</a>
+          <a class="nav-link" href="#service">Service</a>
+          <a class="nav-link" href="#contact">Contact</a>
+          <a class="nav-link nav-cta" href="{{ '/assets/cv/CV.pdf' | relative_url }}">CV</a>
         </nav>
       </div>
     </header>
 
     <main class="site-main">
       <div class="container">
-        {% if page.show_title != false and page.title %}
-          <h1 class="page-title">{{ page.title }}</h1>
-        {% endif %}
-        <div class="content">
-          {{ content }}
-        </div>
+        {{ content }}
       </div>
     </main>
 
     <footer class="site-footer">
-      <div class="container footer-grid">
+      <div class="container footer-inner">
         <div class="footer-left">
           <div class="footer-title">{{ site.title }}</div>
-          <div class="footer-desc">{{ site.description }}</div>
-          <div class="footer-meta">
-            © {{ "now" | date: "%Y" }} · Built with GitHub Pages
-          </div>
+          <div class="footer-meta">© {{ "now" | date: "%Y" }} · Built with GitHub Pages</div>
         </div>
-
         <div class="footer-right">
           <div class="footer-links">
             {% if site.social.github and site.social.github != "" %}
@@ -72,5 +62,28 @@
         </div>
       </div>
     </footer>
+
+    <script>
+      // 스크롤 위치에 따라 메뉴 active 표시(원페이지용)
+      const links = Array.from(document.querySelectorAll('.nav-link'))
+        .filter(a => a.getAttribute('href') && a.getAttribute('href').startsWith('#'));
+
+      const sections = links
+        .map(a => document.querySelector(a.getAttribute('href')))
+        .filter(Boolean);
+
+      const setActive = () => {
+        const y = window.scrollY + 120; // 헤더 높이 보정
+        let idx = 0;
+        for (let i = 0; i < sections.length; i++) {
+          if (sections[i].offsetTop <= y) idx = i;
+        }
+        links.forEach(l => l.classList.remove('active'));
+        if (links[idx]) links[idx].classList.add('active');
+      };
+
+      window.addEventListener('scroll', setActive, { passive: true });
+      window.addEventListener('load', setActive);
+    </script>
   </body>
 </html>
