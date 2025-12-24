@@ -4,6 +4,8 @@ url: ""        # 커스텀 도메인 쓰면 https://example.com
 baseurl: ""    # 보통 비워둠. (프로젝트 페이지면 "/repo-name")
 lang: "en"     # 필요하면 "ko"로 변경
 
+show_description: false
+
 # 기본 설정
 markdown: kramdown
 kramdown:
