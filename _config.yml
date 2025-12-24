@@ -18,6 +18,6 @@ exclude:
 # 연락/링크 (표시만 해두고 index.md에서 필요에 맞게 사용)
 social:
   email: "sukho93@yonsei.ac.kr"
-  github: "github.com/ho-suk-93"
-  scholar: "scholar.google.com/citations?user=OSkFZZAAAAAJ&hl=en"
-  linkedin: "www.linkedin.com/in/ho-suk-6652a7106/"
+  github: "ho-suk-93"
+  scholar: "https://scholar.google.com/citations?user=OSkFZZAAAAAJ&hl=en"
+  linkedin: "https://www.linkedin.com/in/ho-suk-6652a7106/"
