@@ -2,48 +2,136 @@
 layout: default
 title: "Home"
 permalink: /
-show_title: false
-description: "Personal website"
+description: "Ho Suk personal website"
 ---
 
-<div class="grid cols-2">
+<section id="about" class="section">
+  <div class="hero">
+    <div class="hero-inner">
+      <!-- 사진 파일을 assets/img/headshot.jpg로 넣으면 표시됩니다 -->
+      <img class="avatar" src="{{ '/assets/img/headshot.jpg' | relative_url }}" alt="Headshot" />
+
+      <div>
+        <h1 class="hero-title">Ho Suk</h1>
+        <p class="hero-sub">
+          (한두 문장 소개를 여기에 넣으세요. 예: Trustworthy AI for autonomous driving under uncertainty.)
+        </p>
+
+        <div class="pills">
+          <span class="pill">Uncertainty Quantification</span>
+          <span class="pill">Risk Modeling</span>
+          <span class="pill">Reinforcement Learning</span>
+          <span class="pill">Autonomous Driving</span>
+          <span class="pill">LLM Optimization</span>
+        </div>
+
+        <div class="actions">
+          <a class="btn primary" href="mailto:{{ site.social.email }}">Email</a>
+          <a class="btn" href="https://github.com/{{ site.social.github }}">GitHub</a>
+          <a class="btn" href="{{ site.social.scholar }}">Google Scholar</a>
+          <a class="btn" href="{{ '/assets/cv/CV.pdf' | relative_url }}">CV (PDF)</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="research" class="section">
   <div class="card">
-    <h2>About</h2>
-    <p>
-      <!-- 여기에 2~3문장 소개를 넣으세요 -->
-      I work on trustworthy AI systems for autonomous driving under uncertainty.
-    </p>
-    <p class="muted">
-      <!-- 키워드/관심사 요약 -->
-      Uncertainty Quantification · Risk Modeling · Reinforcement Learning · Autonomous Driving · LLM Optimization
-    </p>
-    <p>
-      <!-- 링크는 _config.yml의 social을 참고해서 수정 -->
-      <a href="https://github.com/{{ site.social.github }}">GitHub</a> ·
-      <a href="{{ site.social.scholar }}">Google Scholar</a> ·
-      <a href="mailto:{{ site.social.email }}">Email</a> ·
-      <a href="{{ '/pages/cv/' | relative_url }}">CV</a>
-    </p>
+    <div class="h2">Research</div>
+    <p class="muted">(Research narrative 1–2 paragraphs)</p>
   </div>
 
+  <div class="grid cols-3" style="margin-top:14px;">
+    <div class="card">
+      <div class="h2">Theme A</div>
+      <p class="muted">(핵심 주제/기여 요약)</p>
+    </div>
+    <div class="card">
+      <div class="h2">Theme B</div>
+      <p class="muted">(핵심 주제/기여 요약)</p>
+    </div>
+    <div class="card">
+      <div class="h2">Theme C</div>
+      <p class="muted">(핵심 주제/기여 요약)</p>
+    </div>
+  </div>
+</section>
+
+<section id="publications" class="section">
   <div class="card">
-    <h2>News</h2>
+    <div class="h2">Publications</div>
     <p class="muted">
-      <!-- 최근 소식 2~4줄 정도 -->
-      (Add your latest update here: paper, talk, open-source release, etc.)
+      Full list: <a href="{{ site.social.scholar }}">Google Scholar</a>
+    </p>
+
+    <div class="item">
+      <p class="item-title">(Paper Title 1)</p>
+      <p class="item-meta">(Venue, Year) · (Links: PDF / Code / Project)</p>
+    </div>
+
+    <div class="item">
+      <p class="item-title">(Paper Title 2)</p>
+      <p class="item-meta">(Venue, Year) · (Links: PDF / Code / Project)</p>
+    </div>
+
+    <div class="item">
+      <p class="item-title">(Paper Title 3)</p>
+      <p class="item-meta">(Venue, Year) · (Links: PDF / Code / Project)</p>
+    </div>
+  </div>
+</section>
+
+<section id="projects" class="section">
+  <div class="card">
+    <div class="h2">Projects</div>
+    <p class="muted">(대표 프로젝트 6–10개를 짧게 요약)</p>
+  </div>
+
+  <div class="grid cols-2" style="margin-top:14px;">
+    <div class="card">
+      <div class="h2">Project A</div>
+      <p class="muted">(Role / Outcome / Tech)</p>
+    </div>
+    <div class="card">
+      <div class="h2">Project B</div>
+      <p class="muted">(Role / Outcome / Tech)</p>
+    </div>
+    <div class="card">
+      <div class="h2">Project C</div>
+      <p class="muted">(Role / Outcome / Tech)</p>
+    </div>
+    <div class="card">
+      <div class="h2">Project D</div>
+      <p class="muted">(Role / Outcome / Tech)</p>
+    </div>
+  </div>
+</section>
+
+<section id="service" class="section">
+  <div class="card">
+    <div class="h2">Service</div>
+
+    <div class="item">
+      <p class="item-title">(Reviewer / PC / Workshop role 1)</p>
+      <p class="item-meta">(Year / Venue)</p>
+    </div>
+
+    <div class="item">
+      <p class="item-title">(Reviewer / PC / Workshop role 2)</p>
+      <p class="item-meta">(Year / Venue)</p>
+    </div>
+  </div>
+</section>
+
+<section id="contact" class="section">
+  <div class="card">
+    <div class="h2">Contact</div>
+    <p class="muted">
+      Email: <a href="mailto:{{ site.social.email }}">{{ site.social.email }}</a>
+      {% if site.social.github and site.social.github != "" %}
+        · GitHub: <a href="https://github.com/{{ site.social.github }}">{{ site.social.github }}</a>
+      {% endif %}
     </p>
   </div>
-</div>
-
-<div class="card">
-  <h2>Selected Publications</h2>
-  <!-- 아래는 예시 골격: 채워 넣고, publications 페이지에서 전체 목록을 관리 -->
-  <p>(Add 5–8 representative papers here, and link to the full list.)</p>
-  <p><a href="{{ '/pages/publications/' | relative_url }}">View all publications →</a></p>
-</div>
-
-<div class="card">
-  <h2>Selected Projects</h2>
-  <p>(Add 6–10 representative projects here, and link to the full list.)</p>
-  <p><a href="{{ '/pages/projects/' | relative_url }}">View all projects →</a></p>
-</div>
+</section>
