@@ -15,17 +15,22 @@
       <div class="container header-inner">
         <div class="brand">
           <a class="brand-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
-          {% if site.show_description %}
-            <div class="brand-subtitle">{{ site.description }}</div>
-          {% endif %}
         </div>
 
         <nav class="nav">
           <a class="nav-link" href="#about">About</a>
-          <a class="nav-link" href="#research">Research</a>
+          <a class="nav-link" href="#education">Education</a>
+          <a class="nav-link" href="#expertise">Area of Expertise</a>
+          <a class="nav-link" href="#research">Research Interests</a>
           <a class="nav-link" href="#publications">Publications</a>
+          <a class="nav-link" href="#patents">Patents</a>
           <a class="nav-link" href="#projects">Projects</a>
-          <a class="nav-link" href="#service">Service</a>
+          <a class="nav-link" href="#awards">Awards</a>
+          <a class="nav-link" href="#academic-services">Academic Services</a>
+          <a class="nav-link" href="#skills">Skills</a>
+          <a class="nav-link" href="#certificates">Certificates</a>
+          <a class="nav-link" href="#education-programs">Education Programs</a>
+          <a class="nav-link" href="#other-services">Other Services</a>
           <a class="nav-link" href="#contact">Contact</a>
           <a class="nav-link nav-cta" href="{{ '/assets/cv/CV.pdf' | relative_url }}">CV</a>
         </nav>
@@ -64,7 +69,6 @@
     </footer>
 
     <script>
-      // 스크롤 위치에 따라 메뉴 active 표시(원페이지용)
       const links = Array.from(document.querySelectorAll('.nav-link'))
         .filter(a => a.getAttribute('href') && a.getAttribute('href').startsWith('#'));
 
@@ -73,7 +77,7 @@
         .filter(Boolean);
 
       const setActive = () => {
-        const y = window.scrollY + 120; // 헤더 높이 보정
+        const y = window.scrollY + 140;
         let idx = 0;
         for (let i = 0; i < sections.length; i++) {
           if (sections[i].offsetTop <= y) idx = i;
