@@ -104,8 +104,8 @@ a:hover{ text-decoration:underline; }
 .section{
   scroll-margin-top: 96px;
 
-  /* 카테고리 간격 확대 */
-  margin: 30px 0 34px;
+  /* 여백: 위/아래, 왼쪽/오른쪽은 생략 */
+  margin: 40px 0;
 }
 
 /* Common card style (요구된 색/테두리/그림자) */
