@@ -112,7 +112,11 @@ a:hover{ text-decoration:underline; }
   background: var(--panel);
   border: 1px solid var(--border);
   border-radius: 16px;
-  box-shadow: 0 0 14px var(--shadow);
+
+  /* 그림자 크기 확대 */
+  box-shadow:
+    0 0 28px 6px rgba(150,150,150,0.60);
+
   padding: 18px;
 }
 
