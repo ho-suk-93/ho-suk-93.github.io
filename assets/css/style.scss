@@ -113,13 +113,13 @@ a:hover{ text-decoration:underline; }
 .hero{
   background: var(--panel);
   border: 1px solid var(--border);
-  border-radius: 10px;
+  border-radius: 12px;
 
   /* 그림자 크기 확대 */
   box-shadow:
     0 0 20px 5px var(--shadow);
 
-  padding: 20px;
+  padding: 24px;
 }
 
 /* Hero layout */
