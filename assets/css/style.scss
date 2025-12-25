@@ -4,8 +4,8 @@
 :root{
   --bg: rgb(255,255,255);
   --panel: rgb(250,250,250);
-  --border: rgb(0,0,0);
-  --shadow: rgba(150,150,150,0.70);
+  --border: rgb(5,5,5);
+  --shadow: rgba(150,150,150,0.50);
 
   --text: rgb(0,0,0);
   --muted: rgba(0,0,0,0.70);
@@ -112,14 +112,14 @@ a:hover{ text-decoration:underline; }
 .card,
 .hero{
   background: var(--panel);
-  border: 1px solid var(--border);
-  border-radius: 16px;
+  border: 2px solid var(--border);
+  border-radius: 10px;
 
   /* 그림자 크기 확대 */
   box-shadow:
-    0 0 20px 5px rgba(150,150,150,0.50);
+    0 0 20px 5px var(--shadow);
 
-  padding: 18px;
+  padding: 20px;
 }
 
 /* Hero layout */
