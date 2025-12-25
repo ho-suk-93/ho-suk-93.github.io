@@ -8,22 +8,13 @@ description: "Ho Suk personal website"
 <section id="about" class="section">
   <div class="hero">
     <div class="hero-inner">
-      <!-- 사진 파일을 assets/img/headshot.jpg로 넣으면 표시됩니다 -->
       <img class="avatar" src="{{ '/assets/img/headshot.jpg' | relative_url }}" alt="Headshot" />
 
       <div>
         <h1 class="hero-title">Ho Suk</h1>
         <p class="hero-sub">
-          (한두 문장 소개를 여기에 넣으세요. 예: Trustworthy AI for autonomous driving under uncertainty.)
+          (한두 문장 소개를 여기에 넣으세요.)
         </p>
-
-        <div class="pills">
-          <span class="pill">Uncertainty Quantification</span>
-          <span class="pill">Risk Modeling</span>
-          <span class="pill">Reinforcement Learning</span>
-          <span class="pill">Autonomous Driving</span>
-          <span class="pill">LLM Optimization</span>
-        </div>
 
         <div class="actions">
           <a class="btn primary" href="mailto:{{ site.social.email }}">Email</a>
@@ -36,97 +27,196 @@ description: "Ho Suk personal website"
   </div>
 </section>
 
+<section id="education" class="section">
+  <div class="card">
+    <div class="section-title">Education</div>
+
+    <div class="list-item">
+      <p class="item-title">(Degree, Major, Institution)</p>
+      <p class="item-desc">(Year range, Thesis/Advisor optional)</p>
+    </div>
+
+    <div class="list-item">
+      <p class="item-title">(Degree, Major, Institution)</p>
+      <p class="item-desc">(Year range, Thesis/Advisor optional)</p>
+    </div>
+  </div>
+</section>
+
+<section id="expertise" class="section">
+  <div class="card">
+    <div class="section-title">Area of Expertise</div>
+
+    <div class="subheading">Main</div>
+    <div class="keyword-grid cols-3">
+      <div class="keyword-item">(Main keyword 1)</div>
+      <div class="keyword-item">(Main keyword 2)</div>
+      <div class="keyword-item">(Main keyword 3)</div>
+      <div class="keyword-item">(Main keyword 4)</div>
+      <div class="keyword-item">(Main keyword 5)</div>
+      <div class="keyword-item">(Main keyword 6)</div>
+    </div>
+
+    <div style="height:14px;"></div>
+
+    <div class="subheading">Sub</div>
+    <div class="keyword-grid cols-3">
+      <div class="keyword-item">(Sub keyword 1)</div>
+      <div class="keyword-item">(Sub keyword 2)</div>
+      <div class="keyword-item">(Sub keyword 3)</div>
+      <div class="keyword-item">(Sub keyword 4)</div>
+      <div class="keyword-item">(Sub keyword 5)</div>
+      <div class="keyword-item">(Sub keyword 6)</div>
+    </div>
+  </div>
+</section>
+
 <section id="research" class="section">
   <div class="card">
-    <div class="h2">Research</div>
-    <p class="muted">(Research narrative 1–2 paragraphs)</p>
-  </div>
+    <div class="section-title">Research Interests</div>
 
-  <div class="grid cols-3" style="margin-top:14px;">
-    <div class="card">
-      <div class="h2">Theme A</div>
-      <p class="muted">(핵심 주제/기여 요약)</p>
+    <div class="list-item">
+      <p class="item-title">(Subtopic 1)</p>
+      <p class="item-desc">(Description)</p>
     </div>
-    <div class="card">
-      <div class="h2">Theme B</div>
-      <p class="muted">(핵심 주제/기여 요약)</p>
+
+    <div class="list-item">
+      <p class="item-title">(Subtopic 2)</p>
+      <p class="item-desc">(Description)</p>
     </div>
-    <div class="card">
-      <div class="h2">Theme C</div>
-      <p class="muted">(핵심 주제/기여 요약)</p>
+
+    <div class="list-item">
+      <p class="item-title">(Subtopic 3)</p>
+      <p class="item-desc">(Description)</p>
     </div>
   </div>
 </section>
 
 <section id="publications" class="section">
   <div class="card">
-    <div class="h2">Publications</div>
+    <div class="section-title">Publications</div>
     <p class="muted">
       Full list: <a href="{{ site.social.scholar }}">Google Scholar</a>
     </p>
 
-    <div class="item">
+    <div class="list-item">
       <p class="item-title">(Paper Title 1)</p>
-      <p class="item-meta">(Venue, Year) · (Links: PDF / Code / Project)</p>
+      <p class="item-desc">(Venue, Year) · (Links: PDF / Code / Project)</p>
     </div>
 
-    <div class="item">
+    <div class="list-item">
       <p class="item-title">(Paper Title 2)</p>
-      <p class="item-meta">(Venue, Year) · (Links: PDF / Code / Project)</p>
+      <p class="item-desc">(Venue, Year) · (Links: PDF / Code / Project)</p>
     </div>
+  </div>
+</section>
 
-    <div class="item">
-      <p class="item-title">(Paper Title 3)</p>
-      <p class="item-meta">(Venue, Year) · (Links: PDF / Code / Project)</p>
+<section id="patents" class="section">
+  <div class="card">
+    <div class="section-title">Patents</div>
+
+    <div class="list-item">
+      <p class="item-title">(Patent title)</p>
+      <p class="item-desc">(Filing/Registration info, Year)</p>
     </div>
   </div>
 </section>
 
 <section id="projects" class="section">
   <div class="card">
-    <div class="h2">Projects</div>
-    <p class="muted">(대표 프로젝트 6–10개를 짧게 요약)</p>
-  </div>
+    <div class="section-title">Projects</div>
 
-  <div class="grid cols-2" style="margin-top:14px;">
-    <div class="card">
-      <div class="h2">Project A</div>
-      <p class="muted">(Role / Outcome / Tech)</p>
+    <div class="list-item">
+      <p class="item-title">(Project 1)</p>
+      <p class="item-desc">(Role / Outcome / Tech)</p>
     </div>
-    <div class="card">
-      <div class="h2">Project B</div>
-      <p class="muted">(Role / Outcome / Tech)</p>
+
+    <div class="list-item">
+      <p class="item-title">(Project 2)</p>
+      <p class="item-desc">(Role / Outcome / Tech)</p>
     </div>
-    <div class="card">
-      <div class="h2">Project C</div>
-      <p class="muted">(Role / Outcome / Tech)</p>
-    </div>
-    <div class="card">
-      <div class="h2">Project D</div>
-      <p class="muted">(Role / Outcome / Tech)</p>
+
+    <div class="list-item">
+      <p class="item-title">(Project 3)</p>
+      <p class="item-desc">(Role / Outcome / Tech)</p>
     </div>
   </div>
 </section>
 
-<section id="service" class="section">
+<section id="awards" class="section">
   <div class="card">
-    <div class="h2">Service</div>
+    <div class="section-title">Awards</div>
 
-    <div class="item">
-      <p class="item-title">(Reviewer / PC / Workshop role 1)</p>
-      <p class="item-meta">(Year / Venue)</p>
+    <div class="list-item">
+      <p class="item-title">(Award name)</p>
+      <p class="item-desc">(Year, Organization)</p>
+    </div>
+  </div>
+</section>
+
+<section id="academic-services" class="section">
+  <div class="card">
+    <div class="section-title">Academic Services</div>
+
+    <div class="list-item">
+      <p class="item-title">(Reviewer / PC / Workshop role)</p>
+      <p class="item-desc">(Venue, Year)</p>
     </div>
 
-    <div class="item">
-      <p class="item-title">(Reviewer / PC / Workshop role 2)</p>
-      <p class="item-meta">(Year / Venue)</p>
+    <div class="list-item">
+      <p class="item-title">(Reviewer / PC / Workshop role)</p>
+      <p class="item-desc">(Venue, Year)</p>
+    </div>
+  </div>
+</section>
+
+<section id="skills" class="section">
+  <div class="card">
+    <div class="section-title">Skills</div>
+
+    <div class="list-item">
+      <p class="item-title">(Category)</p>
+      <p class="item-desc">(e.g., Programming / Tools / Platforms)</p>
+    </div>
+  </div>
+</section>
+
+<section id="certificates" class="section">
+  <div class="card">
+    <div class="section-title">Certificates</div>
+
+    <div class="list-item">
+      <p class="item-title">(Certificate name)</p>
+      <p class="item-desc">(Year, Issuer)</p>
+    </div>
+  </div>
+</section>
+
+<section id="education-programs" class="section">
+  <div class="card">
+    <div class="section-title">Education Programs</div>
+
+    <div class="list-item">
+      <p class="item-title">(Program name)</p>
+      <p class="item-desc">(Year, Provider)</p>
+    </div>
+  </div>
+</section>
+
+<section id="other-services" class="section">
+  <div class="card">
+    <div class="section-title">Other Services</div>
+
+    <div class="list-item">
+      <p class="item-title">(Service item)</p>
+      <p class="item-desc">(Year, Detail)</p>
     </div>
   </div>
 </section>
 
 <section id="contact" class="section">
   <div class="card">
-    <div class="h2">Contact</div>
+    <div class="section-title">Contact</div>
     <p class="muted">
       Email: <a href="mailto:{{ site.social.email }}">{{ site.social.email }}</a>
       {% if site.social.github and site.social.github != "" %}
