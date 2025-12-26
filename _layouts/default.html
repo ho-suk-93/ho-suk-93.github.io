@@ -35,23 +35,9 @@
       <div class="container footer-inner">
         <div class="footer-left">
           <div class="footer-title">{{ site.title }}</div>
-          <div class="footer-meta">© {{ "now" | date: "%Y" }} · Built with GitHub Pages</div>
         </div>
         <div class="footer-right">
-          <div class="footer-links">
-            {% if site.social.github and site.social.github != "" %}
-              <a href="https://github.com/{{ site.social.github }}">GitHub</a>
-            {% endif %}
-            {% if site.social.scholar and site.social.scholar != "" %}
-              <a href="{{ site.social.scholar }}">Google Scholar</a>
-            {% endif %}
-            {% if site.social.linkedin and site.social.linkedin != "" %}
-              <a href="{{ site.social.linkedin }}">LinkedIn</a>
-            {% endif %}
-            {% if site.social.email and site.social.email != "" %}
-              <a href="mailto:{{ site.social.email }}">Email</a>
-            {% endif %}
-          </div>
+          <div class="footer-meta">© {{ "now" | date: "%Y" }} · Built with GitHub Pages</div>
         </div>
       </div>
     </footer>
