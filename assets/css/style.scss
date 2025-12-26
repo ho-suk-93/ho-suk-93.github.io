@@ -45,9 +45,15 @@ a:hover{ text-decoration:underline; }
 .header-inner{
   display:flex;
   align-items:center;
-  justify-content:space-between;
+  justify-content:flex-start;
   gap:16px;
   padding:14px 0;
+}
+
+.brand{
+  /* brand가 더 넓게 공간을 가져가게 */
+  flex: 0 0 240px;    /* 필요하면 260~320px까지 조정 */
+  min-width: 220px;
 }
 
 .brand-title{
@@ -61,16 +67,26 @@ a:hover{ text-decoration:underline; }
 
 .brand-subtitle{
   margin-top:2px;
-  font-size: 13px;
+  font-size: 14px;
   color: var(--muted);
 }
 
 /* Nav (pill style) */
 .nav{
+  flex: 1 1 auto;
+  max-width: 760px;   /* 필요하면 650~900px 범위로 조정 */
+  margin-left: auto;  /* 오른쪽 정렬 유지 */
   display:flex;
   flex-wrap:wrap;
   gap:10px;
   justify-content:flex-end;
+}
+
+.nav-row{
+  display:flex;
+  flex-wrap: wrap;          /* 한 줄이 길어지면 모바일에서는 자동 줄바꿈 허용 */
+  gap:10px;
+  justify-content: flex-end; /* 오른쪽 정렬 */
 }
 
 .nav-link{
