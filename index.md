@@ -18,8 +18,9 @@ description: "Ho Suk personal website"
 
         <div class="actions">
           <a class="btn primary" href="mailto:{{ site.social.email }}">Email</a>
-          <a class="btn" href="https://github.com/{{ site.social.github }}">GitHub</a>
           <a class="btn" href="{{ site.social.scholar }}">Google Scholar</a>
+          <a class="btn" href="https://github.com/{{ site.social.github }}">GitHub</a>
+          <a class="btn" href="{{ site.social.linkedin }}">LinkedIn</a>
           <a class="btn" href="{{ '/assets/cv/CV.pdf' | relative_url }}">CV (PDF)</a>
         </div>
       </div>
