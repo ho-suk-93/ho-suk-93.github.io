@@ -8,7 +8,7 @@ description: "Ho Suk personal website"
 <section id="about" class="section">
   <div class="hero">
     <div class="hero-inner">
-      <img class="avatar" src="{{ '/assets/img/headshot.jpg' | relative_url }}" alt="Headshot" />
+      <img class="avatar" src="{{ '/assets/img/H_S_700.jpg' | relative_url }}" alt="Headshot" />
 
       <div>
         <h1 class="hero-title">Ho Suk</h1>
