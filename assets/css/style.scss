@@ -143,7 +143,7 @@ a:hover{ text-decoration:underline; }
 /* Hero layout */
 .hero-inner{
   display:grid;
-  gap:18px;
+  gap:30px; /* avatar와 hero-inner 사이의 간격 */
 }
 @media (min-width: 860px){
   .hero-inner{
