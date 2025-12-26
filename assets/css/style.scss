@@ -76,7 +76,7 @@ a:hover{ text-decoration:underline; }
 /* Nav (pill style) */
 .nav{
   flex: 1 1 auto;
-  max-width: 900px;   /* 필요하면 650~900px 범위로 조정 */
+  max-width: 1000px;
   margin-left: auto;  /* 오른쪽 정렬 유지 */
   display:flex;
   flex-wrap:wrap;
