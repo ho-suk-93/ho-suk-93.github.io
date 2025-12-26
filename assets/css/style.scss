@@ -54,8 +54,8 @@ a:hover{ text-decoration:underline; }
 
 .brand{
   /* brand가 더 넓게 공간을 가져가게 */
-  flex: 0 0 240px;    /* 필요하면 260~320px까지 조정 */
-  min-width: 220px;
+  flex: 0 0 200px;    /* 필요하면 260~320px까지 조정 */
+  min-width: 200px;
 }
 
 .brand-title{
