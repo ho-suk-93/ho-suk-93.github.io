@@ -213,15 +213,3 @@ description: "Ho Suk personal website"
     </div>
   </div>
 </section>
-
-<section id="contact" class="section">
-  <div class="card">
-    <div class="section-title">Contact</div>
-    <p class="muted">
-      Email: <a href="mailto:{{ site.social.email }}">{{ site.social.email }}</a>
-      {% if site.social.github and site.social.github != "" %}
-        · GitHub: <a href="https://github.com/{{ site.social.github }}">{{ site.social.github }}</a>
-      {% endif %}
-    </p>
-  </div>
-</section>
