@@ -190,7 +190,7 @@ a:hover{ text-decoration:underline; }
   background: var(--panel);
   color: var(--text);
   text-decoration:none;
-  box-shadow: 0 0 12px rgba(150,150,150,0.55);
+  box-shadow: 0 0 10px var(--shadow);
 }
 .btn:hover{
   background: rgb(245,245,245);
@@ -249,7 +249,7 @@ a:hover{ text-decoration:underline; }
   background: var(--panel);
   border: 1px solid var(--border);
   border-radius: 10px;
-  box-shadow: 0 0 12px rgba(150,150,150,0.55);
+  box-shadow: 0 0 10px var(--shadow);
   padding: 10px 12px;
   font-weight: 700;
 }
