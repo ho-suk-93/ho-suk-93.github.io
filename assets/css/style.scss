@@ -50,6 +50,8 @@ a:hover{ text-decoration:underline; }
   padding:14px 0;
 }
 
+/* ************************************************** */
+
 .brand{
   /* brand가 더 넓게 공간을 가져가게 */
   flex: 0 0 240px;    /* 필요하면 260~320px까지 조정 */
@@ -57,7 +59,7 @@ a:hover{ text-decoration:underline; }
 }
 
 .brand-title{
-  font-size: 28px;
+  font-size: 40px;
   font-weight: 900;
   letter-spacing: -0.2px;
   color: var(--text);
@@ -163,7 +165,7 @@ a:hover{ text-decoration:underline; }
 /* Headshot 옆 Ho Suk 제목(요청: 더 크게) */
 .hero-title{
   margin:0 0 6px;
-  font-size: 44px;
+  font-size: 50px;
   font-weight: 900;
   letter-spacing: -0.4px;
 }
