@@ -159,7 +159,7 @@ a:hover{ text-decoration:underline; }
   border: 1px solid var(--border);
   object-fit: cover;
   background: rgb(255,255,255);
-  box-shadow: 0 0 14px var(--shadow);
+  box-shadow: 0 0 10px var(--shadow);
 }
 
 /* Headshot 옆 Ho Suk 제목(요청: 더 크게) */
@@ -241,6 +241,11 @@ a:hover{ text-decoration:underline; }
   gap:10px;
 }
 @media (min-width: 900px){
+  .hero-inner{
+    grid-template-columns: 300px 1fr;
+    align-items:center;
+  }
+}
   .keyword-grid.cols-3{
     grid-template-columns: repeat(3, 1fr);
   }
