@@ -73,6 +73,10 @@ description: "Ho Suk personal website"
   <div class="card">
     <div class="section-title">Research Interests</div>
     <div class="list-item">
+      <p class="item-title">Autonomous Vehicle</p>
+      <p class="item-desc">(Description)</p>
+    </div>
+    <div class="list-item">
       <p class="item-title">Time-series Trajectory Prediction</p>
       <p class="item-desc">Research to predict the trajectory of agents, such as vehicles, using GNSS time-series data and images to understand their intentions and provide a basis for system's decision-making.</p>
     </div>
