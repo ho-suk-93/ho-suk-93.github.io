@@ -130,7 +130,7 @@ a:hover{ text-decoration:underline; }
 .card,
 .hero{
   background: var(--panel);
-  border: 1px solid var(--border);
+  border: 1.5px solid var(--border);
   border-radius: 10px;
 
   /* 그림자 크기 확대 */
@@ -190,7 +190,7 @@ a:hover{ text-decoration:underline; }
   background: var(--panel);
   color: var(--text);
   text-decoration:none;
-  box-shadow: 0 0 10px var(--shadow);
+  box-shadow: 0 0 5px var(--shadow);
 }
 .btn:hover{
   background: rgb(245,245,245);
@@ -250,9 +250,10 @@ a:hover{ text-decoration:underline; }
   background: var(--panel);
   border: 1px solid var(--border);
   border-radius: 10px;
-  box-shadow: 0 0 10px var(--shadow);
-  padding: 10px 12px;
-  font-weight: 700;
+  box-shadow: 0 0 5px var(--shadow);
+  padding: 10px 14px;
+  font-size: 15px;
+  font-weight: 600;
 }
 
 /* Footer */
