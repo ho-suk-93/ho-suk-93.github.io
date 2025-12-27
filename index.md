@@ -59,12 +59,12 @@ description: "Ho Suk personal website"
     <div style="height:14px;"></div>
     <div class="subheading">Sub</div>
     <div class="keyword-grid cols-3">
-      <div class="keyword-item">(Sub keyword 1)</div>
+      <div class="keyword-item">Delivery Robot</div>
       <div class="keyword-item">(Sub keyword 2)</div>
       <div class="keyword-item">(Sub keyword 3)</div>
       <div class="keyword-item">(Sub keyword 4)</div>
       <div class="keyword-item">(Sub keyword 5)</div>
-      <div class="keyword-item">(Sub keyword 6)</div>
+      <div class="keyword-item">VLM for Autonomous Driving</div> 
     </div>
   </div>
 </section>
