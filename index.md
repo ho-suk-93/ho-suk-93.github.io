@@ -53,18 +53,18 @@ description: "Ho Suk personal website"
       <div class="keyword-item">Autonomous Vehicle</div>
       <div class="keyword-item">Time-series Trajectory Prediction</div>
       <div class="keyword-item">Uncertainty Quantification</div>
-      <div class="keyword-item">ISO Safety Standard</div>
+      <div class="keyword-item">ISO Standard for Vehicle Safety</div>
       <div class="keyword-item">Deep Reinforcement Learning</div>
     </div>
     <div style="height:14px;"></div>
     <div class="subheading">Sub</div>
     <div class="keyword-grid cols-3">
       <div class="keyword-item">Delivery Robot</div>
-      <div class="keyword-item">(Sub keyword 2)</div>
-      <div class="keyword-item">(Sub keyword 3)</div>
-      <div class="keyword-item">(Sub keyword 4)</div>
-      <div class="keyword-item">(Sub keyword 5)</div>
-      <div class="keyword-item">VLM for Autonomous Driving</div> 
+      <div class="keyword-item">Simulation (CARLA, MuJoCo)</div>
+      <div class="keyword-item">Positioning/Localization</div>
+      <div class="keyword-item">VLM for Autonomous Driving</div>
+      <div class="keyword-item">Task/Domain Generalization</div>
+      <div class="keyword-item">Zero-Knowledge Proof</div> 
     </div>
   </div>
 </section>
