@@ -56,9 +56,7 @@ description: "Ho Suk personal website"
       <div class="keyword-item">ISO Safety Standard</div>
       <div class="keyword-item">Deep Reinforcement Learning</div>
     </div>
-
     <div style="height:14px;"></div>
-
     <div class="subheading">Sub</div>
     <div class="keyword-grid cols-3">
       <div class="keyword-item">(Sub keyword 1)</div>
