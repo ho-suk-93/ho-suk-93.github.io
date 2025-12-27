@@ -35,6 +35,7 @@ description: "Ho Suk personal website"
       <p class="item-title">Yonsei University - Ph.D. in Integrated Technology</p>
       <p class="item-desc">Seoul, South Korea</p>
       <p class="item-desc">2018.07 - 2025.02</p>
+      <p class="item-desc">Dissertation: Autonomous driving to ensure safety under the uncertainty of artificial intelligence</p>
       <p class="item-desc">Advisor: Prof. Shiho Kim</p>
     </div>
     <div class="list-item">
