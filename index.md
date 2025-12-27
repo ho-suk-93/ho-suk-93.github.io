@@ -85,7 +85,7 @@ description: "Ho Suk personal website"
       <p class="item-desc">(Description)</p>
     </div>
     <div class="list-item">
-      <p class="item-title">ISO Standard for Vehicle Safety</p>
+      <p class="item-title">ISO Standard for Vehicle Safety (ISO 26262, ISO 21448)</p>
       <p class="item-desc">(Description)</p>
     </div>
   </div>
