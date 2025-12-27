@@ -50,7 +50,7 @@ description: "Ho Suk personal website"
     <div class="subheading">Main</div>
     <div class="keyword-grid cols-3">
       <div class="keyword-item">Autonomous Driving</div>
-      <div class="keyword-item">Autonomous Vehicle</div>
+      <div class="keyword-item">Autonomous Vehicle & Delivery Robot</div>
       <div class="keyword-item">Time-series Trajectory Prediction</div>
       <div class="keyword-item">Uncertainty Quantification</div>
       <div class="keyword-item">ISO Standard for Vehicle Safety</div>
@@ -59,9 +59,9 @@ description: "Ho Suk personal website"
     <div style="height:14px;"></div>
     <div class="subheading">Sub</div>
     <div class="keyword-grid cols-3">
-      <div class="keyword-item">Delivery Robot</div>
       <div class="keyword-item">Simulation (CARLA, MuJoCo)</div>
-      <div class="keyword-item">Positioning/Localization</div>
+      <div class="keyword-item">Positioning & Localization</div>
+      <div class="keyword-item">Infrared Thermography</div>
       <div class="keyword-item">VLM for Autonomous Driving</div>
       <div class="keyword-item">Task/Domain Generalization</div>
       <div class="keyword-item">Zero-Knowledge Proof</div> 
@@ -72,19 +72,16 @@ description: "Ho Suk personal website"
 <section id="research" class="section">
   <div class="card">
     <div class="section-title">Research Interests</div>
-
     <div class="list-item">
-      <p class="item-title">(Subtopic 1)</p>
+      <p class="item-title">Time-series Trajectory Prediction</p>
+      <p class="item-desc">Research to predict the trajectory of agents, such as vehicles, using GNSS time-series data and images to understand their intentions and provide a basis for system's decision-making.</p>
+    </div>
+    <div class="list-item">
+      <p class="item-title">Uncertainty Quantification</p>
       <p class="item-desc">(Description)</p>
     </div>
-
     <div class="list-item">
-      <p class="item-title">(Subtopic 2)</p>
-      <p class="item-desc">(Description)</p>
-    </div>
-
-    <div class="list-item">
-      <p class="item-title">(Subtopic 3)</p>
+      <p class="item-title">ISO Standard for Vehicle Safety</p>
       <p class="item-desc">(Description)</p>
     </div>
   </div>
