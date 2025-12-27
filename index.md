@@ -39,7 +39,7 @@ description: "Ho Suk personal website"
     </div>
     <div class="list-item">
       <p class="item-title">Yonsei University - B.S. in Economics & Computer Sciences (Double Major)</p>
-      <p class="item-desc">Seoul, South Korea</br>
+      <p class="item-desc">Seoul, South Korea<br>
                            2012.03 - 2017.08</p>
     </div>
   </div>
