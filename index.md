@@ -9,13 +9,11 @@ description: "Ho Suk personal website"
   <div class="hero">
     <div class="hero-inner">
       <img class="avatar" src="{{ '/assets/img/H_S_700.jpg' | relative_url }}" alt="Headshot" />
-
       <div>
         <h1 class="hero-title">Ho Suk</h1>
         <p class="hero-sub">
           (한두 문장 소개를 여기에 넣으세요.)
         </p>
-
         <div class="actions">
           <a class="btn primary" href="mailto:{{ site.social.email }}">Email</a>
           <a class="btn" href="{{ site.social.scholar }}">Google Scholar</a>
@@ -49,15 +47,14 @@ description: "Ho Suk personal website"
 <section id="expertise" class="section">
   <div class="card">
     <div class="section-title">Area of Expertise</div>
-
     <div class="subheading">Main</div>
     <div class="keyword-grid cols-3">
-      <div class="keyword-item">(Main keyword 1)</div>
-      <div class="keyword-item">(Main keyword 2)</div>
-      <div class="keyword-item">(Main keyword 3)</div>
-      <div class="keyword-item">(Main keyword 4)</div>
-      <div class="keyword-item">(Main keyword 5)</div>
-      <div class="keyword-item">(Main keyword 6)</div>
+      <div class="keyword-item">Autonomous Driving</div>
+      <div class="keyword-item">Autonomous Vehicle</div>
+      <div class="keyword-item">Time-series Trajectory Prediction</div>
+      <div class="keyword-item">Uncertainty Quantification</div>
+      <div class="keyword-item">ISO Safety Standard</div>
+      <div class="keyword-item">Deep Reinforcement Learning</div>
     </div>
 
     <div style="height:14px;"></div>
