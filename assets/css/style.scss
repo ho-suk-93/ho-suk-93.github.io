@@ -200,7 +200,6 @@ a:hover{ text-decoration:underline; }
   font-weight: 900;
 }
 
-/* Section titles: 요청(두껍게 + 더 크게) */
 .section-title{
   margin:0 0 10px;
   font-size: 30px;
@@ -222,17 +221,19 @@ a:hover{ text-decoration:underline; }
 }
 .item-title{
   margin: 5px 0;
+  font-size: 20px;
   font-weight: 900;
 }
 .item-desc{
   margin: 0;
+  font-size: 15px;
   color: var(--muted);
 }
 
 /* Keyword grid (Area of Expertise) */
 .subheading{
   margin: 6px 0 10px;
-  font-size: 16px;
+  font-size: 20px;
   font-weight: 900;
 }
 
