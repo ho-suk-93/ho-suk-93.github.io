@@ -31,15 +31,16 @@ description: "Ho Suk personal website"
 <section id="education" class="section">
   <div class="card">
     <div class="section-title">Education</div>
-
     <div class="list-item">
-      <p class="item-title">(Degree, Major, Institution)</p>
-      <p class="item-desc">(Year range, Thesis/Advisor optional)</p>
+      <p class="item-title">Yonsei University - Ph.D. in Integrated Technology</p>
+      <p class="item-desc">Seoul, South Korea</p>
+      <p class="item-desc">2018.07 - 2025.02</p>
+      <p class="item-desc">Advisor: Prof. Shiho Kim</p>
     </div>
-
     <div class="list-item">
-      <p class="item-title">(Degree, Major, Institution)</p>
-      <p class="item-desc">(Year range, Thesis/Advisor optional)</p>
+      <p class="item-title">Yonsei University - B.S. in Economics & Computer Sciences (Double Major)</p>
+      <p class="item-desc">Seoul, South Korea</p>
+      <p class="item-desc">2012.03 - 2017.08</p>
     </div>
   </div>
 </section>
