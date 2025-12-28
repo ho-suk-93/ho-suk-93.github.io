@@ -123,16 +123,16 @@ description: "Ho Suk personal website"
   <div class="card">
     <div class="section-title">Publications</div>
     <p class="muted">
-      Full list: <a href="{{ site.social.scholar }}">Google Scholar</a>
+      Full list: <a href="{{ site.social.scholar }}">Ho Suk's Google Scholar</a>
     </p>
-
     <div class="list-item">
-      <p class="item-title">(Paper Title 1)</p>
-      <p class="item-desc">(Venue, Year) · (Links: PDF / Code / Project)</p>
+      <p class="item-title">SFF Rendering-Based Uncertainty Prediction using VisionLLM</p>
+      <p class="item-desc">Junyong Lee*, Jeihee Cho*, <b>Ho Suk*</b>, Shiho Kim</p>
+      <p class="item-desc">AAAI 2025 Workshop on Planning in the Era of LLMs (LM4Plan)</p>
+      <p class="item-desc">2025.03</p>
     </div>
-
     <div class="list-item">
-      <p class="item-title">(Paper Title 2)</p>
+      <p class="item-title">Uncertainty-Aware Multimodal Trajectory Prediction via a Single Inference from a Single Model</p>
       <p class="item-desc">(Venue, Year) · (Links: PDF / Code / Project)</p>
     </div>
   </div>
