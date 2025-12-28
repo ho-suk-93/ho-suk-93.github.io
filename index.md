@@ -82,7 +82,7 @@ description: "Ho Suk personal website"
     </div>
     <div class="list-item">
       <p class="item-title">Uncertainty Quantification</p>
-      <p class="item-desc">(Description)</p>
+      <p class="item-desc">Research to quantify the uncertainty in the predictions of deep learning models using methods such as Deep Ensembles, Monte Carlo Dropout, and Deterministic Single Forward Pass, thereby enabling robust decision-making even in ambiguous or unfamiliar data distributions.</p>
     </div>
     <div class="list-item">
       <p class="item-title">ISO Standard for Vehicle Safety (ISO 26262, ISO 21448)</p>
