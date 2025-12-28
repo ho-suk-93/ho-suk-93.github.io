@@ -158,9 +158,40 @@ description: "Ho Suk personal website"
     </div>
     <div class="list-item">
       <p class="item-title">Hardware Accelerators for Autonomous Vehicles</p>
-      <p class="item-desc">Junekyo Jhung*, Ho Suk*, Hyungbin Park*, Shiho Kim</p>
+      <p class="item-desc">Junekyo Jhung*, <b>Ho Suk*</b>, Hyungbin Park*, Shiho Kim</p>
       <p class="item-desc">Artificial Intelligence and Hardware Accelerators [Book]</p>
       <p class="item-desc">2023.03</p>
+    </div>
+    <div class="list-item">
+      <p class="item-title">Rationale-aware Autonomous Driving Policy utilizing Safety Force Field implemented on CARLA Simulator</p>
+      <p class="item-desc"><b>Ho Suk*</b>, Taewoo Kim*, Hyungbin Park, Pamul Yadav, Junyong Lee, Shiho Kim</p>
+      <p class="item-desc">NeurIPS 2022 Workshop: Machine Learning for Autonomous Driving [Workshop]</p>
+      <p class="item-desc">2022.12</p>
+    </div>
+    <div class="list-item">
+      <p class="item-title">Verification and Validation of Euro NCAP Scenarios based on Simulation of Responsibility-Sensitive Safety (RSS) and Safety Force Field (SFF) Metrics</p>
+      <p class="item-desc"><b>Ho Suk*</b>, Junekyo Jhung*, Taewoo Kim, Hyungbin Park, Minseok Won, Cheolhee Yoon, Shiho Kim</p>
+      <p class="item-desc">ASAM International Conference 2022 [Conference - Oral]</p>
+      <p class="item-desc">2022.11</p>
+    </div>
+    <div class="list-item">
+      <p class="item-title">Learning unsupervised disentangled skill latents to adapt unseen task and morphological modifications</p>
+      <p class="item-desc">Taewoo Kim, Pamul Yadav, <b>Ho Suk</b>, Shiho Kim</p>
+      <p class="item-desc">Engineering Applications of Artificial Intelligence [Journal]</p>
+      <p class="item-desc">2022.11</p>
+    </div>
+    <div class="list-item">
+      <p class="item-title">Self-supervised Learning for Frontal Camera Input based Real-time Localization of Autonomous Vehicles</p>
+      <p class="item-desc">Taewoo Kim, <b>Ho Suk</b>, Junekyo Jhung, Hyungbin Park, Shiho Kim</p>
+      <p class="item-desc">Summer Annual Conference of IEIE, 2021 [Conference]</p>
+      <p class="item-desc">2021.06</p>
+    </div>
+    <div class="list-item">
+      <p class="item-title">Passenger-oriented On-Demand Mobility Services using C-ITS-based Autonomous Vehicles</p>
+      <p class="item-desc"><b>Ho Suk</b>, Taewoo Kim, Hyungbin Park, Junekyo Jhung, Jaekwang Cha, Shiho Kim</p>
+      <p class="item-desc">Summer Annual Conference of IEIE, 2021 [Conference]</p>
+      <p class="item-desc">2021.06</p>
+      <p class="item-desc">Awarded: <b>Hyundai Motor Group Paper Award</b></p>
     </div>
   </div>
 </section>
