@@ -98,11 +98,11 @@ description: "Ho Suk personal website"
     </div>
     <div class="list-item">
       <p class="item-title">Positioning & Localization</p>
-      <p class="item-desc">INS, RTK</p>
+      <p class="item-desc">GNSS(Global Navigation Satellite System), RTK(Real-Time Kinematic), INS(Inertial Navigation System)</p>
     </div>
     <div class="list-item">
       <p class="item-title">Infrared Thermography</p>
-      <p class="item-desc">LWIR</p>
+      <p class="item-desc">LWIR(Long-Wave InfraRed)</p>
     </div>
     <div class="list-item">
       <p class="item-title">VLM for Autonomous Driving</p>
@@ -110,7 +110,7 @@ description: "Ho Suk personal website"
     </div>
     <div class="list-item">
       <p class="item-title">Task/Domain Generalization</p>
-      <p class="item-desc">Meta Learning, Transfer Learning</p>
+      <p class="item-desc">Meta Learning, Transfer Learning, Domain Adaptation</p>
     </div>
     <div class="list-item">
       <p class="item-title">Zero-Knowledge Proof for Vehicle</p>
