@@ -28,7 +28,7 @@ description: "Ho Suk personal website"
 
 <section id="education" class="section">
   <div class="card">
-    <div class="section-title">◆■◈◎Education</div>
+    <div class="section-title">◆ Education</div>
     <div class="list-item">
       <p class="item-title">Yonsei University - Ph.D. in Integrated Technology</p>
       <p class="item-desc">Seoul, South Korea</p>
@@ -46,7 +46,7 @@ description: "Ho Suk personal website"
 
 <section id="expertise" class="section">
   <div class="card">
-    <div class="section-title">Area of Expertise</div>
+    <div class="section-title">◆ Area of Expertise</div>
     <div class="subheading">Main</div>
     <div class="keyword-grid cols-3">
       <div class="keyword-item">Autonomous Driving</div>
@@ -71,7 +71,7 @@ description: "Ho Suk personal website"
 
 <section id="research" class="section">
   <div class="card">
-    <div class="section-title">Research Interests</div>
+    <div class="section-title">◆ Research Interests</div>
     <div class="list-item">
       <p class="item-title">Autonomous Driving / Autonomous Vehicle & Delivery Robot</p>
       <p class="item-desc">Development of three autonomous vehicles to obtain autonomous driving permits from the Ministry of Land, Infrastructure and Transport of South Korea. Demonstration and deployment of autonomous agents in the dynamic real-world environment such as Seoul metropolitan area.</p>
@@ -121,7 +121,7 @@ description: "Ho Suk personal website"
 
 <section id="publications" class="section">
   <div class="card">
-    <div class="section-title">Publications</div>
+    <div class="section-title">◆ Publications</div>
     <p class="muted">
       For more information, please see <a href="{{ site.social.scholar }}">Ho Suk's Google Scholar</a>
     </p>
@@ -198,7 +198,7 @@ description: "Ho Suk personal website"
 
 <section id="patents" class="section">
   <div class="card">
-    <div class="section-title">Patents</div>
+    <div class="section-title">◆ Patents</div>
 
     <div class="list-item">
       <p class="item-title">(Patent title)</p>
@@ -209,7 +209,7 @@ description: "Ho Suk personal website"
 
 <section id="projects" class="section">
   <div class="card">
-    <div class="section-title">Projects</div>
+    <div class="section-title">◆ Projects</div>
 
     <div class="list-item">
       <p class="item-title">(Project 1)</p>
@@ -230,7 +230,7 @@ description: "Ho Suk personal website"
 
 <section id="awards" class="section">
   <div class="card">
-    <div class="section-title">Awards</div>
+    <div class="section-title">◆ Awards</div>
 
     <div class="list-item">
       <p class="item-title">(Award name)</p>
@@ -241,7 +241,7 @@ description: "Ho Suk personal website"
 
 <section id="academic-services" class="section">
   <div class="card">
-    <div class="section-title">Academic Services</div>
+    <div class="section-title">◆ Academic Services</div>
 
     <div class="list-item">
       <p class="item-title">(Reviewer / PC / Workshop role)</p>
@@ -257,7 +257,7 @@ description: "Ho Suk personal website"
 
 <section id="skills" class="section">
   <div class="card">
-    <div class="section-title">Skills</div>
+    <div class="section-title">◆ Skills</div>
 
     <div class="list-item">
       <p class="item-title">(Category)</p>
@@ -268,7 +268,7 @@ description: "Ho Suk personal website"
 
 <section id="certificates" class="section">
   <div class="card">
-    <div class="section-title">Certificates</div>
+    <div class="section-title">◆ Certificates</div>
 
     <div class="list-item">
       <p class="item-title">(Certificate name)</p>
@@ -279,7 +279,7 @@ description: "Ho Suk personal website"
 
 <section id="education-programs" class="section">
   <div class="card">
-    <div class="section-title">Education Programs</div>
+    <div class="section-title">◆ Education Programs</div>
 
     <div class="list-item">
       <p class="item-title">(Program name)</p>
@@ -290,7 +290,7 @@ description: "Ho Suk personal website"
 
 <section id="other-services" class="section">
   <div class="card">
-    <div class="section-title">Other Services</div>
+    <div class="section-title">◆ Other Services</div>
 
     <div class="list-item">
       <p class="item-title">(Service item)</p>
