@@ -94,7 +94,7 @@ description: "Ho Suk personal website"
     </div>
     <div class="list-item">
       <p class="item-title">Simulation (CARLA, MuJoCo)</p>
-      <p class="item-desc">Unreal Engine 4</p>
+      <p class="item-desc">Utilization of the Unreal Engine 4-based CARLA simulator for autonomous driving and the MuJoCo simulator for reinforcement learning.</p>
     </div>
     <div class="list-item">
       <p class="item-title">Positioning & Localization</p>
