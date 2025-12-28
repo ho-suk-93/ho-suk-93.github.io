@@ -12,7 +12,7 @@ description: "Ho Suk personal website"
       <div>
         <h1 class="hero-title">Ho Suk</h1>
         <p class="hero-sub">
-          (한두 문장 소개를 여기에 넣으세요.)
+          Hello World!
         </p>
         <div class="actions">
           <a class="btn primary" href="mailto:{{ site.social.email }}">Email</a>
@@ -123,7 +123,7 @@ description: "Ho Suk personal website"
   <div class="card">
     <div class="section-title">Publications</div>
     <p class="muted">
-      Full list: <a href="{{ site.social.scholar }}">Ho Suk's Google Scholar</a>
+      For more information, please see <a href="{{ site.social.scholar }}">Ho Suk's Google Scholar</a>
     </p>
     <div class="list-item">
       <p class="item-title">SFF Rendering-Based Uncertainty Prediction using VisionLLM</p>
@@ -133,7 +133,28 @@ description: "Ho Suk personal website"
     </div>
     <div class="list-item">
       <p class="item-title">Uncertainty-Aware Multimodal Trajectory Prediction via a Single Inference from a Single Model</p>
-      <p class="item-desc">(Venue, Year) · (Links: PDF / Code / Project)</p>
+      <p class="item-desc"><b>Ho Suk</b>, Shiho Kim</p>
+      <p class="item-desc">Sensors</p>
+      <p class="item-desc">2025.01</p>
+      <p class="item-desc"><b>Selected: Editor's Choice Article</b></p>
+    </div>
+    <div class="list-item">
+      <p class="item-title">Uncertainty as a criterion for SOTIF evaluation of deep learning models in autonomous driving systems</p>
+      <p class="item-desc"><b>Ho Suk</b>, Shiho Kim</p>
+      <p class="item-desc">NeurIPS 2024 Workshop on Bayesian Decision-making and Uncertainty</p>
+      <p class="item-desc">2024.12</p>
+    </div>
+    <div class="list-item">
+      <p class="item-title">Addressing uncertainty challenges for autonomous driving in real-world environments</p>
+      <p class="item-desc"><b>Ho Suk*</b>, Yerin Lee*, Taewoo Kim, Shiho Kim</p>
+      <p class="item-desc">Advances in Computers</p>
+      <p class="item-desc">2023.07</p>
+    </div>
+    <div class="list-item">
+      <p class="item-title">Offline reinforcement learning methods for real-world problems</p>
+      <p class="item-desc">Taewoo Kim*, <b>Ho Suk*</b>, Shiho Kim</p>
+      <p class="item-desc">Advances in Computers</p>
+      <p class="item-desc">2023.05</p>
     </div>
   </div>
 </section>
