@@ -128,33 +128,39 @@ description: "Ho Suk personal website"
     <div class="list-item">
       <p class="item-title">SFF Rendering-Based Uncertainty Prediction using VisionLLM</p>
       <p class="item-desc">Junyong Lee*, Jeihee Cho*, <b>Ho Suk*</b>, Shiho Kim</p>
-      <p class="item-desc">AAAI 2025 Workshop on Planning in the Era of LLMs (LM4Plan)</p>
+      <p class="item-desc">AAAI 2025 Workshop on Planning in the Era of LLMs (LM4Plan) [Workshop]</p>
       <p class="item-desc">2025.03</p>
     </div>
     <div class="list-item">
       <p class="item-title">Uncertainty-Aware Multimodal Trajectory Prediction via a Single Inference from a Single Model</p>
       <p class="item-desc"><b>Ho Suk</b>, Shiho Kim</p>
-      <p class="item-desc">Sensors</p>
+      <p class="item-desc">Sensors [Journal]</p>
       <p class="item-desc">2025.01</p>
-      <p class="item-desc"><b>Selected: Editor's Choice Article</b></p>
+      <p class="item-desc">Selected: <b>Editor's Choice Article</b></p>
     </div>
     <div class="list-item">
       <p class="item-title">Uncertainty as a criterion for SOTIF evaluation of deep learning models in autonomous driving systems</p>
       <p class="item-desc"><b>Ho Suk</b>, Shiho Kim</p>
-      <p class="item-desc">NeurIPS 2024 Workshop on Bayesian Decision-making and Uncertainty</p>
+      <p class="item-desc">NeurIPS 2024 Workshop on Bayesian Decision-making and Uncertainty [Workshop]</p>
       <p class="item-desc">2024.12</p>
     </div>
     <div class="list-item">
       <p class="item-title">Addressing uncertainty challenges for autonomous driving in real-world environments</p>
       <p class="item-desc"><b>Ho Suk*</b>, Yerin Lee*, Taewoo Kim, Shiho Kim</p>
-      <p class="item-desc">Advances in Computers</p>
+      <p class="item-desc">Advances in Computers [Journal]</p>
       <p class="item-desc">2023.07</p>
     </div>
     <div class="list-item">
       <p class="item-title">Offline reinforcement learning methods for real-world problems</p>
       <p class="item-desc">Taewoo Kim*, <b>Ho Suk*</b>, Shiho Kim</p>
-      <p class="item-desc">Advances in Computers</p>
+      <p class="item-desc">Advances in Computers [Journal]</p>
       <p class="item-desc">2023.05</p>
+    </div>
+    <div class="list-item">
+      <p class="item-title">Hardware Accelerators for Autonomous Vehicles</p>
+      <p class="item-desc">Junekyo Jhung*, Ho Suk*, Hyungbin Park*, Shiho Kim</p>
+      <p class="item-desc">Artificial Intelligence and Hardware Accelerators [Book]</p>
+      <p class="item-desc">2023.03</p>
     </div>
   </div>
 </section>
