@@ -74,7 +74,8 @@ description: "Ho Suk personal website"
     <div class="section-title">Research Interests</div>
     <div class="list-item">
       <p class="item-title">Autonomous Driving / Autonomous Vehicle & Delivery Robot</p>
-      <p class="item-desc">Development on demonstrating and deploying autonomous agents in the dynamic real-world environment.</p>
+      <p class="item-desc">Development of three autonomous vehicles to obtain permits for autonomous vehicle operation from the Ministry of Land, Infrastructure and Transport of South Korea. 
+        Demonstration and deployment of autonomous agents in the dynamic real-world environment.</p>
     </div>
     <div class="list-item">
       <p class="item-title">Time-series Trajectory Prediction</p>
@@ -102,7 +103,7 @@ description: "Ho Suk personal website"
     </div>
     <div class="list-item">
       <p class="item-title">Infrared Thermography</p>
-      <p class="item-desc">LWIR(Long-Wave InfraRed)</p>
+      <p class="item-desc">Utilization of LWIR(Long-Wave InfraRed) camera to perceive objects at night, in backlight, and in adverse weather conditions.</p>
     </div>
     <div class="list-item">
       <p class="item-title">VLM for Autonomous Driving</p>
