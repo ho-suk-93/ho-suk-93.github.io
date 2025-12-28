@@ -74,15 +74,15 @@ description: "Ho Suk personal website"
     <div class="section-title">Research Interests</div>
     <div class="list-item">
       <p class="item-title">Autonomous Driving / Autonomous Vehicle & Delivery Robot</p>
-      <p class="item-desc">Development to demonstrate and deploy autonomous agents in the dynamic real-world environment.</p>
+      <p class="item-desc">Development on demonstrating and deploying autonomous agents in the dynamic real-world environment.</p>
     </div>
     <div class="list-item">
       <p class="item-title">Time-series Trajectory Prediction</p>
-      <p class="item-desc">Research to predict the trajectory of agents, such as vehicles, using GNSS time-series data and images to understand their intentions and provide a basis for system's decision-making.</p>
+      <p class="item-desc">Research on predicting the trajectory of agents, such as vehicles, using GNSS time-series data and images to understand their intentions and provide a basis for system's decision-making.</p>
     </div>
     <div class="list-item">
       <p class="item-title">Uncertainty Quantification</p>
-      <p class="item-desc">Research to quantify the uncertainty in the predictions of deep learning models using methods such as Deep Ensembles, Monte Carlo Dropout, and Deterministic Single Forward Pass, thereby enabling robust decision-making even in ambiguous or unfamiliar data distributions.</p>
+      <p class="item-desc">Research on quantifying the uncertainty in the predictions of deep learning models using methods such as Deep Ensembles, Monte Carlo Dropout, and Deterministic Single Forward Pass, thereby enabling robust decision-making even in ambiguous or unfamiliar data distributions.</p>
     </div>
     <div class="list-item">
       <p class="item-title">ISO Standard for Vehicle Safety (ISO 26262, ISO 21448)</p>
@@ -90,7 +90,7 @@ description: "Ho Suk personal website"
     </div>
     <div class="list-item">
       <p class="item-title">Deep Reinforcement Learning</p>
-      <p class="item-desc"> </p>
+      <p class="item-desc">Research on training adaptive deep learning agents in environments that are difficult to define with loss functions using reward function-based reinforcement learning, and applying it to the decision systems of autonomous vehicles and autonomous delivery robots.</p>
     </div>
     <div class="list-item">
       <p class="item-title">Simulation (CARLA, MuJoCo)</p>
