@@ -73,8 +73,8 @@ description: "Ho Suk personal website"
   <div class="card">
     <div class="section-title">Research Interests</div>
     <div class="list-item">
-      <p class="item-title">Autonomous Vehicle</p>
-      <p class="item-desc">(Description)</p>
+      <p class="item-title">Autonomous Vehicle & Delivery Robot</p>
+      <p class="item-desc">Development to demonstrate and deploy autonomous agents in the dynamic real-world environment.</p>
     </div>
     <div class="list-item">
       <p class="item-title">Time-series Trajectory Prediction</p>
