@@ -64,7 +64,7 @@ description: "Ho Suk personal website"
       <div class="keyword-item">Infrared Thermography</div>
       <div class="keyword-item">VLM for Autonomous Driving</div>
       <div class="keyword-item">Task/Domain Generalization</div>
-      <div class="keyword-item">Zero-Knowledge Proof</div> 
+      <div class="keyword-item">Zero-Knowledge Proof for Vehicle</div> 
     </div>
   </div>
 </section>
@@ -73,7 +73,7 @@ description: "Ho Suk personal website"
   <div class="card">
     <div class="section-title">Research Interests</div>
     <div class="list-item">
-      <p class="item-title">Autonomous Vehicle & Delivery Robot</p>
+      <p class="item-title">Autonomous Driving / Autonomous Vehicle & Delivery Robot</p>
       <p class="item-desc">Development to demonstrate and deploy autonomous agents in the dynamic real-world environment.</p>
     </div>
     <div class="list-item">
@@ -86,7 +86,35 @@ description: "Ho Suk personal website"
     </div>
     <div class="list-item">
       <p class="item-title">ISO Standard for Vehicle Safety (ISO 26262, ISO 21448)</p>
-      <p class="item-desc">(Description)</p>
+      <p class="item-desc">ISO 26262, ISO 21448</p>
+    </div>
+    <div class="list-item">
+      <p class="item-title">Deep Reinforcement Learning</p>
+      <p class="item-desc"> </p>
+    </div>
+    <div class="list-item">
+      <p class="item-title">Simulation (CARLA, MuJoCo)</p>
+      <p class="item-desc">Unreal Engine 4</p>
+    </div>
+    <div class="list-item">
+      <p class="item-title">Positioning & Localization</p>
+      <p class="item-desc">INS, RTK</p>
+    </div>
+    <div class="list-item">
+      <p class="item-title">Infrared Thermography</p>
+      <p class="item-desc">LWIR</p>
+    </div>
+    <div class="list-item">
+      <p class="item-title">VLM for Autonomous Driving</p>
+      <p class="item-desc"> </p>
+    </div>
+    <div class="list-item">
+      <p class="item-title">Task/Domain Generalization</p>
+      <p class="item-desc">Meta Learning, Transfer Learning</p>
+    </div>
+    <div class="list-item">
+      <p class="item-title">Zero-Knowledge Proof for Vehicle</p>
+      <p class="item-desc"> </p>
     </div>
   </div>
 </section>
