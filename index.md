@@ -28,7 +28,7 @@ description: "Ho Suk personal website"
 
 <section id="education" class="section">
   <div class="card">
-    <div class="section-title">Education</div>
+    <div class="section-title">◆■◈◎Education</div>
     <div class="list-item">
       <p class="item-title">Yonsei University - Ph.D. in Integrated Technology</p>
       <p class="item-desc">Seoul, South Korea</p>
