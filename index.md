@@ -106,7 +106,7 @@ description: "Ho Suk personal website"
     </div>
     <div class="list-item">
       <p class="item-title">VLM for Autonomous Driving</p>
-      <p class="item-desc"> </p>
+      <p class="item-desc">Research on fine-tuning VLM(Vision-Language Model) using LoRA(Low-Rank Adaptation) and applying VLM to autonomous driving decision-making systems.</p>
     </div>
     <div class="list-item">
       <p class="item-title">Task/Domain Generalization</p>
