@@ -74,8 +74,7 @@ description: "Ho Suk personal website"
     <div class="section-title">Research Interests</div>
     <div class="list-item">
       <p class="item-title">Autonomous Driving / Autonomous Vehicle & Delivery Robot</p>
-      <p class="item-desc">Development of three autonomous vehicles to obtain permits for autonomous vehicle operation from the Ministry of Land, Infrastructure and Transport of South Korea. 
-        Demonstration and deployment of autonomous agents in the dynamic real-world environment.</p>
+      <p class="item-desc">Development of three autonomous vehicles to obtain autonomous driving permits from the Ministry of Land, Infrastructure and Transport of South Korea. Demonstration and deployment of autonomous agents in the dynamic real-world environment such as Seoul metropolitan area.</p>
     </div>
     <div class="list-item">
       <p class="item-title">Time-series Trajectory Prediction</p>
@@ -87,7 +86,7 @@ description: "Ho Suk personal website"
     </div>
     <div class="list-item">
       <p class="item-title">ISO Standard for Vehicle Safety (ISO 26262, ISO 21448)</p>
-      <p class="item-desc">ISO 26262, ISO 21448</p>
+      <p class="item-desc">Research on ISO 26262 Functional Safety, and ISO 21448 SOTIF for ensuring the safety of AI-based autonomous vehicles.</p>
     </div>
     <div class="list-item">
       <p class="item-title">Deep Reinforcement Learning</p>
@@ -99,7 +98,7 @@ description: "Ho Suk personal website"
     </div>
     <div class="list-item">
       <p class="item-title">Positioning & Localization</p>
-      <p class="item-desc">GNSS(Global Navigation Satellite System), RTK(Real-Time Kinematic), INS(Inertial Navigation System)</p>
+      <p class="item-desc">Utilization of GNSS(Global Navigation Satellite System), RTK(Real-Time Kinematic), and INS(Inertial Navigation System) to achieve accurate positioning in urban areas with severe multipath phenomenon.</p>
     </div>
     <div class="list-item">
       <p class="item-title">Infrared Thermography</p>
@@ -111,11 +110,11 @@ description: "Ho Suk personal website"
     </div>
     <div class="list-item">
       <p class="item-title">Task/Domain Generalization</p>
-      <p class="item-desc">Meta Learning, Transfer Learning, Domain Adaptation</p>
+      <p class="item-desc">Research on Meta Learning, Transfer Learning, and Domain Adaptation</p>
     </div>
     <div class="list-item">
       <p class="item-title">Zero-Knowledge Proof for Vehicle</p>
-      <p class="item-desc"> </p>
+      <p class="item-desc">Research on ZKP(Zero-Knowledge Proof) for V2X.</p>
     </div>
   </div>
 </section>
