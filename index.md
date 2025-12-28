@@ -110,11 +110,11 @@ description: "Ho Suk personal website"
     </div>
     <div class="list-item">
       <p class="item-title">Task/Domain Generalization</p>
-      <p class="item-desc">Research on Meta Learning, Transfer Learning, and Domain Adaptation</p>
+      <p class="item-desc">Research on Meta Learning, Transfer Learning, and Domain Adaptation for AI model's generalization on various task or domain.</p>
     </div>
     <div class="list-item">
       <p class="item-title">Zero-Knowledge Proof for Vehicle</p>
-      <p class="item-desc">Research on ZKP(Zero-Knowledge Proof) for V2X.</p>
+      <p class="item-desc">Research on ZKP(Zero-Knowledge Proof) for V2X(Vehicle to Everything).</p>
     </div>
   </div>
 </section>
