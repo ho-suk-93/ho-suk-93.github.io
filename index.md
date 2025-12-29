@@ -219,17 +219,17 @@ description: "Ho Suk's Personal Website"
     <div class="section-title">● Patents</div>
     <div class="list-item">
       <p class="item-title">ANONYMOUS PATENT</p>
-      <p class="item-desc">TBD (KR, Application)</p>
+      <p class="item-desc">Application Number: TBD (KR)</p>
       <p class="item-desc">2026.01</p>
     </div>
     <div class="list-item">
       <p class="item-title">System and Method for Utilizing Deep Ensemble-based AI Model Uncertainty as a SOTIF Metric in Autonomous Driving Systems</p>
-      <p class="item-desc">10-2025-0182105 (KR, Application)</p>
+      <p class="item-desc">Application Number: 10-2025-0182105 (KR)</p>
       <p class="item-desc">2025.11</p>
     </div>
     <div class="list-item">
       <p class="item-title">Driving Automation Apparatus and Method</p>
-      <p class="item-desc">10-2023-0005272 (KR, Application)</p>
+      <p class="item-desc">Application Number: 10-2023-0005272 (KR)</p>
       <p class="item-desc">2023.01</p>
     </div>
   </div>
@@ -335,17 +335,44 @@ description: "Ho Suk's Personal Website"
 <section id="certificates" class="section">
   <div class="card">
     <div class="section-title">● Certificates</div>
-
     <div class="list-item">
-      <p class="item-title">(Certificate name)</p>
-      <p class="item-desc">(Year, Issuer)</p>
+      <p class="item-title">TOEIC (Test Of English for International Communication)</p>
+      <p class="item-desc">970/990 Points (Top 2%)</p>
+      <p class="item-desc">Institution: ETS(Educational Testing Service)</p>
+      <p class="item-desc">Issue Number: 039249-0314001501</p>
+      <p class="item-desc">2016.08.28</p>
+    </div>
+    <div class="list-item">
+      <p class="item-title">TEPS (Test of English Proficiency developed by Seoul national university)</p>
+      <p class="item-desc">462/600 Points (Top 9.52%)</p>
+      <p class="item-desc">Institution: Seoul National University</p>
+      <p class="item-desc">Issue Number: RNEKQ8510EKFG</p>
+      <p class="item-desc">2020.12.06</p>
+    </div>    
+    <div class="list-item">
+      <p class="item-title">Engineer Information Processing</p>
+      <p class="item-desc">Institution: Ministry of Science and ICT of Korea</p>
+      <p class="item-desc">Issue Number: 18201050949Z</p>
+      <p class="item-desc">2018.05.25</p>
+    </div>
+    <div class="list-item">
+      <p class="item-title">Computer Specialist in Spreadsheet & Database Level-2</p>
+      <p class="item-desc">Institution: Ministry of Employment and Labor of Korea</p>
+      <p class="item-desc">Issue Number: 15-K9-040429</p>
+      <p class="item-desc">2015.07.17</p>
+    </div>
+    <div class="list-item">
+      <p class="item-title">MOS (Microsoft Office Specialist) PowerPoint</p>
+      <p class="item-desc">Institution: Microsoft</p>
+      <p class="item-desc">Issue Number: wnm33-4Svc</p>
+      <p class="item-desc">2015.05.23</p>
     </div>
   </div>
 </section>
 
-<section id="education-programs" class="section">
+<section id="educational-programs" class="section">
   <div class="card">
-    <div class="section-title">● Education Programs</div>
+    <div class="section-title">● Educational Programs</div>
     <div class="list-item">
       <p class="item-title">SCSC (Samsung Convergence Software Course)</p>
       <p class="item-desc">4th Course</p>
