@@ -400,10 +400,13 @@ description: "Ho Suk's Personal Website"
 <section id="other-services" class="section">
   <div class="card">
     <div class="section-title">● Other Services</div>
-
     <div class="list-item">
-      <p class="item-title">(Service item)</p>
-      <p class="item-desc">(Year, Detail)</p>
+      <p class="item-title">Bank of Korea Economic Education Volunteer Group</p>
+      <p class="item-desc">2016.03 - 2016.12</p>
+    </div>
+    <div class="list-item">
+      <p class="item-title">Bank of Korea Economic Education Volunteer Group</p>
+      <p class="item-desc">2016.03 - 2016.12</p>
     </div>
   </div>
 </section>
