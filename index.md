@@ -283,7 +283,7 @@ description: "Ho Suk's Personal Website"
       <p class="item-desc">2023.12</p>
     </div>
     <div class="list-item">
-      <p class="item-title">IEEE IV(Intelligent Vehicles) 2023</p>
+      <p class="item-title">IEEE IV (Intelligent Vehicles) 2023</p>
       <p class="item-desc">Reviewer</p>
       <p class="item-desc">Anchorage, United States</p>
       <p class="item-desc">2023.06</p>
@@ -295,19 +295,19 @@ description: "Ho Suk's Personal Website"
       <p class="item-desc">2022.12</p>
     </div>
     <div class="list-item">
-      <p class="item-title">IEEE ITSC(Intelligent Transportation Systems Conference) 2022</p>
+      <p class="item-title">IEEE ITSC (Intelligent Transportation Systems Conference) 2022</p>
       <p class="item-desc">Reviewer</p>
       <p class="item-desc">Macau, China</p>
       <p class="item-desc">2022.10</p>
     </div>
     <div class="list-item">
-      <p class="item-title">IEEE IV(Intelligent Vehicles) 2022</p>
+      <p class="item-title">IEEE IV (Intelligent Vehicles) 2022</p>
       <p class="item-desc">Reviewer</p>
       <p class="item-desc">Aachen, Germany</p>
       <p class="item-desc">2022.06</p>
     </div>
     <div class="list-item">
-      <p class="item-title">IEEE ICRA(International Conference on Robotics and Automation) 2022 Workshop - Fresh Perspectives on the Future of Autonomous Driving</p>
+      <p class="item-title">IEEE ICRA (International Conference on Robotics and Automation) 2022 Workshop - Fresh Perspectives on the Future of Autonomous Driving</p>
       <p class="item-desc">Committee</p>
       <p class="item-desc">Philadelphia, United States</p>
       <p class="item-desc">2022.05</p>
