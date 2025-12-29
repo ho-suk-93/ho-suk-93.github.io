@@ -219,7 +219,8 @@ description: "Ho Suk's Personal Website"
     <div class="section-title">● Patents</div>
     <div class="list-item">
       <p class="item-title">Driving Automation Apparatus and Method</p>
-      <p class="item-desc">(Filing/Registration info, Year)</p>
+      <p class="item-desc">10-2023-0005272 (KR, Application)</p>
+      <p class="item-desc">2023.01</p>
     </div>
   </div>
 </section>
