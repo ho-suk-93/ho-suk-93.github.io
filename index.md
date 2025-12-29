@@ -128,8 +128,14 @@ description: "Ho Suk's Personal Website"
     <div class="list-item">
       <p class="item-title">SFF Rendering-Based Uncertainty Prediction using VisionLLM</p>
       <p class="item-desc">Junyong Lee*, Jeihee Cho*, <b>Ho Suk*</b>, Shiho Kim</p>
-      <p class="item-desc">AAAI 2025 Workshop on Planning in the Era of LLMs (LM4Plan) [Conference - Workshop]</p>
+      <p class="item-desc">AAAI 2025 Workshop on Planning in the Era of LLMs (LM4Plan) [Conference Workshop]</p>
       <p class="item-desc">2025.03</p>
+    </div>
+    <div class="list-item">
+      <p class="item-title">Automotive Software Development Methodologies and Standards</p>
+      <p class="item-desc"><b>Ho Suk</b></p>
+      <p class="item-desc">Automotive Software [Book]</p>
+      <p class="item-desc">2025.02</p>
     </div>
     <div class="list-item">
       <p class="item-title">Uncertainty-Aware Multimodal Trajectory Prediction via a Single Inference from a Single Model</p>
@@ -141,7 +147,7 @@ description: "Ho Suk's Personal Website"
     <div class="list-item">
       <p class="item-title">Uncertainty as a criterion for SOTIF evaluation of deep learning models in autonomous driving systems</p>
       <p class="item-desc"><b>Ho Suk</b>, Shiho Kim</p>
-      <p class="item-desc">NeurIPS 2024 Workshop on Bayesian Decision-making and Uncertainty [Conference - Workshop]</p>
+      <p class="item-desc">NeurIPS 2024 Workshop on Bayesian Decision-making and Uncertainty [Conference Workshop]</p>
       <p class="item-desc">2024.12</p>
     </div>
     <div class="list-item">
@@ -165,7 +171,7 @@ description: "Ho Suk's Personal Website"
     <div class="list-item">
       <p class="item-title">Rationale-aware Autonomous Driving Policy utilizing Safety Force Field implemented on CARLA Simulator</p>
       <p class="item-desc"><b>Ho Suk*</b>, Taewoo Kim*, Hyungbin Park, Pamul Yadav, Junyong Lee, Shiho Kim</p>
-      <p class="item-desc">NeurIPS 2022 Workshop: Machine Learning for Autonomous Driving [Conference - Workshop]</p>
+      <p class="item-desc">NeurIPS 2022 Workshop: Machine Learning for Autonomous Driving [Conference Workshop]</p>
       <p class="item-desc">2022.12</p>
     </div>
     <div class="list-item">
@@ -202,7 +208,7 @@ description: "Ho Suk's Personal Website"
     <div class="list-item">
       <p class="item-title">Self-Driving like a Human driver instead of a Robocar: Personalized comfortable driving experience for autonomous vehicles</p>
       <p class="item-desc">Il Bae, Jaeyoung Moon, Junekyo Jhung, <b>Ho Suk</b>, Taewoo Kim, Hyunbin Park, Jaekwang Cha, Jinhyuk Kim, Dohyun Kim, Shiho Kim</p>
-      <p class="item-desc">NeurIPS 2019 Workshop: Machine Learning for Autonomous Driving [Conference - Workshop]</p>
+      <p class="item-desc">NeurIPS 2019 Workshop: Machine Learning for Autonomous Driving [Conference Workshop]</p>
       <p class="item-desc">2019.12</p>
     </div>
   </div>
