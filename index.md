@@ -260,10 +260,18 @@ description: "Ho Suk's Personal Website"
 <section id="awards" class="section">
   <div class="card">
     <div class="section-title">● Awards</div>
-
     <div class="list-item">
-      <p class="item-title">(Award name)</p>
-      <p class="item-desc">(Year, Organization)</p>
+      <p class="item-title">Hyundai Motor Group</p>
+      <p class="item-desc">2021.07</p>
+    </div>
+    <div class="list-item">
+      <p class="item-title">Yonsei University Leadership</p>
+      <p class="item-desc">2017.01</p>
+    </div>
+    <div class="list-item">
+      <p class="item-title">SERI (Samsung Economic Research Institute) - EU Academy</p>
+      <p class="item-desc">2nd Prize</p>
+      <p class="item-desc">2015.05</p>
     </div>
   </div>
 </section>
@@ -325,10 +333,24 @@ description: "Ho Suk's Personal Website"
 <section id="skills" class="section">
   <div class="card">
     <div class="section-title">● Skills</div>
-
     <div class="list-item">
-      <p class="item-title">(Category)</p>
-      <p class="item-desc">(e.g., Programming / Tools / Platforms)</p>
+      <p class="item-title">Project Planning and Management</p>
+      <p class="item-desc">In charge of five national projects of the Ministry of Science and ICT of Korea.</p>
+    </div>
+    <div class="list-item">
+      <p class="item-title">Programming</p>
+      <p class="item-desc">Main: Python</p>
+      <p class="item-desc">Sub: C/C++, Java</p>
+    </div>
+    <div class="list-item">
+      <p class="item-title">Machine Learning</p>
+      <p class="item-desc">Main: PyTorch</p>
+      <p class="item-desc">Sub: TensorFlow</p>
+    </div>
+    <div class="list-item">
+      <p class="item-title">Simulation</p>
+      <p class="item-desc">Main: CARLA (Unreal Engine 4)</p>
+      <p class="item-desc">Sub: MuJoCo</p>
     </div>
   </div>
 </section>
@@ -393,7 +415,7 @@ description: "Ho Suk's Personal Website"
     <div class="list-item">
       <p class="item-title">Bank of Korea - Friday Lecture</p>
       <p class="item-desc">Basic Economics Course (25 Classes)</p>
-      <p class="item-desc">2015.03 - 2015.05</p>
+      <p class="item-desc">2015.01 - 2016.02</p>
     </div>
   </div>
 </section>
