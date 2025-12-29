@@ -218,14 +218,19 @@ description: "Ho Suk's Personal Website"
   <div class="card">
     <div class="section-title">● Patents</div>
     <div class="list-item">
-      <p class="item-title">Driving Automation Apparatus and Method</p>
-      <p class="item-desc">10-2023-0005272 (KR, Application)</p>
-      <p class="item-desc">2023.01</p>
+      <p class="item-title">ANONYMOUS PATENT</p>
+      <p class="item-desc">TBD (KR, Application)</p>
+      <p class="item-desc">2026.01</p>
     </div>
     <div class="list-item">
       <p class="item-title">System and Method for Utilizing Deep Ensemble-based AI Model Uncertainty as a SOTIF Metric in Autonomous Driving Systems</p>
       <p class="item-desc">10-2025-0182105 (KR, Application)</p>
       <p class="item-desc">2025.11</p>
+    </div>
+    <div class="list-item">
+      <p class="item-title">Driving Automation Apparatus and Method</p>
+      <p class="item-desc">10-2023-0005272 (KR, Application)</p>
+      <p class="item-desc">2023.01</p>
     </div>
   </div>
 </section>
