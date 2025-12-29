@@ -217,9 +217,8 @@ description: "Ho Suk's Personal Website"
 <section id="patents" class="section">
   <div class="card">
     <div class="section-title">● Patents</div>
-
     <div class="list-item">
-      <p class="item-title">(Patent title)</p>
+      <p class="item-title">Driving Automation Apparatus and Method</p>
       <p class="item-desc">(Filing/Registration info, Year)</p>
     </div>
   </div>
