@@ -266,6 +266,7 @@ description: "Ho Suk's Personal Website"
     </div>
     <div class="list-item">
       <p class="item-title">Yonsei University Leadership</p>
+      <p class="item-desc">Platinum Veritas Rank</p>
       <p class="item-desc">2017.01</p>
     </div>
     <div class="list-item">
@@ -280,7 +281,7 @@ description: "Ho Suk's Personal Website"
   <div class="card">
     <div class="section-title">● Academic Services</div>
     <div class="list-item">
-      <p class="item-title">WWW 2026 Workshop - Zero-knowledge proof And Blockchain for WEB 4.0: Advancing the Post-quantum And Decentralized era</p>
+      <p class="item-title">ACM WWW 2026 Workshop - Zero-knowledge proof And Blockchain for WEB 4.0: Advancing the Post-quantum And Decentralized era</p>
       <p class="item-desc"><b>Organizer</b></p>
       <p class="item-desc">Dubai, United Arab Emirates</p>
       <p class="item-desc">2026.04</p>
