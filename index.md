@@ -33,6 +33,7 @@ description: "Ho Suk's Personal Website"
       <p class="item-title">Yonsei University - Ph.D. in Integrated Technology</p>
       <p class="item-desc">Seoul, South Korea</p>
       <p class="item-desc">2018.07 - 2025.02</p>
+      <p class="item-desc">GPA: 4.16/4.3 (4.29/4.5)</p>
       <p class="item-desc">Dissertation: Autonomous driving to ensure safety under the uncertainty of artificial intelligence</p>
       <p class="item-desc">Advisor: Prof. Shiho Kim</p>
     </div>
@@ -385,7 +386,7 @@ description: "Ho Suk's Personal Website"
       <p class="item-desc">Awarded: <b>2nd Prize</b></p>
     </div>
     <div class="list-item">
-      <p class="item-title">Financial Supervisory Service - Financial Academy</p>
+      <p class="item-title">Financial Supervisory Service of Korea - Financial Academy</p>
       <p class="item-desc">General Course (5 Classes)</p>
       <p class="item-desc">2015.03 - 2015.05</p>
     </div>
@@ -406,7 +407,8 @@ description: "Ho Suk's Personal Website"
     </div>
     <div class="list-item">
       <p class="item-title">Yonsei University - Volunteer Coordinators (Volunteer Club)</p>
-      <p class="item-title">13th Head</p>
+      <p class="item-desc"><b>13th Head</b></p>
+      <p class="item-desc">100 Hours of Service</p>
       <p class="item-desc">2015.03 - 2016.02</p>
     </div>
     <div class="list-item">
