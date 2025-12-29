@@ -346,10 +346,26 @@ description: "Ho Suk's Personal Website"
 <section id="education-programs" class="section">
   <div class="card">
     <div class="section-title">● Education Programs</div>
-
     <div class="list-item">
-      <p class="item-title">(Program name)</p>
-      <p class="item-desc">(Year, Provider)</p>
+      <p class="item-title">SCSC (Samsung Convergence Software Course)</p>
+      <p class="item-desc">4th Course</p>
+      <p class="item-desc">2015.09 - 2017.08</p>
+    </div>
+    <div class="list-item">
+      <p class="item-title">SERI (Samsung Economic Research Institute) EU Academy</p>
+      <p class="item-desc">6th Course (10 Classes)</p>
+      <p class="item-desc">2015.03 - 2015.05</p>
+      <p class="item-desc">Awarded: <b>2nd Prize</b></p>
+    </div>
+    <div class="list-item">
+      <p class="item-title">Financial Supervisory Service Financial Academy</p>
+      <p class="item-desc">General Course (5 Classes)</p>
+      <p class="item-desc">2015.03 - 2015.05</p>
+    </div>
+    <div class="list-item">
+      <p class="item-title">Bank of Korea Friday Lecture</p>
+      <p class="item-desc">Basic Economics Course (25 Classes)</p>
+      <p class="item-desc">2015.03 - 2015.05</p>
     </div>
   </div>
 </section>
