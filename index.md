@@ -270,15 +270,29 @@ description: "Ho Suk's Personal Website"
 <section id="academic-services" class="section">
   <div class="card">
     <div class="section-title">● Academic Services</div>
-
     <div class="list-item">
-      <p class="item-title">(Reviewer / PC / Workshop role)</p>
-      <p class="item-desc">(Venue, Year)</p>
+      <p class="item-title">WWW 2026 Workshop - Zero-knowledge proof And Blockchain for WEB 4.0: Advancing the Post-quantum And Decentralized era</p>
+      <p class="item-desc"><b>Organizer</b></p>
+      <p class="item-desc">Dubai, United Arab Emirates</p>
+      <p class="item-desc">2026.04</p>
     </div>
-
     <div class="list-item">
-      <p class="item-title">(Reviewer / PC / Workshop role)</p>
-      <p class="item-desc">(Venue, Year)</p>
+      <p class="item-title">NeurIPS 2023 Workshop - Machine Learning for Autonomous Driving</p>
+      <p class="item-desc">Committee</p>
+      <p class="item-desc">New Orleans, United States</p>
+      <p class="item-desc">2023.12</p>
+    </div>
+    <div class="list-item">
+      <p class="item-title">IEEE IV 2023</p>
+      <p class="item-desc">Reviewer</p>
+      <p class="item-desc">Anchorage, United States</p>
+      <p class="item-desc">2023.06</p>
+    </div>
+    <div class="list-item">
+      <p class="item-title">NeurIPS 2022 Workshop - Machine Learning for Autonomous Driving</p>
+      <p class="item-desc">Committee</p>
+      <p class="item-desc">New Orleans, United States</p>
+      <p class="item-desc">2022.12</p>
     </div>
   </div>
 </section>
