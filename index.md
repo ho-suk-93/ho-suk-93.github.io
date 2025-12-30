@@ -251,10 +251,12 @@ description: "Ho Suk's Personal Website"
 <section id="projects" class="section">
   <div class="card">
     <div class="section-title">● Projects</div>
-
     <div class="list-item">
-      <p class="item-title">(Project 1)</p>
-      <p class="item-desc">(Role / Outcome / Tech)</p>
+      <p class="item-title">Development of digital innovation elements to enhance the safety of complex autonomous mobility</p>
+      <p class="item-desc">Research and development of fault tolerant autonomous driving systems based on redundancy and DL uncertainty quantification.</p>
+      <p class="item-desc">Research and development of zero-knowledge proof-based inter-mobility communication.</p>
+      <p class="item-desc">Sponsor: Ministry of Science and ICT of Korea</p>
+      <p class="item-desc">2025.04 - In Progress</p>
     </div>
 
     <div class="list-item">
