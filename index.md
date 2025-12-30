@@ -136,6 +136,7 @@ description: "Ho Suk's Personal Website"
     </p>
     <div class="list-item">
       <p class="item-title">SFF Rendering-Based Uncertainty Prediction using VisionLLM</p>
+      <p class="item-desc">▷ VLM (Vision Language Model) / LoRA-based Fine Tuning</p>
       <p class="item-desc">Junyong Lee*, Jeihee Cho*, <b>Ho Suk*</b>, Shiho Kim</p>
       <p class="item-desc">AAAI 2025 Workshop on Planning in the Era of LLMs (LM4Plan) [Conference Workshop]</p>
       <p class="item-desc">2025.03</p>
@@ -143,12 +144,14 @@ description: "Ho Suk's Personal Website"
     <div class="list-item">
       <p class="item-title">Automotive Software Development Methodologies and Standards</p>      
       <p class="item-desc"><b>[KOR] 자동차 소프트웨어 개발 방법론 및 표준</b></p>
+      <p class="item-desc">▷ Agile / DevOps / ISO 26262 / ISO 21448 / AUTOSAR / ASPICE</p>
       <p class="item-desc"><b>Ho Suk</b></p>
       <p class="item-desc">Automotive Software [Book]</p>
       <p class="item-desc">2025.02</p>
     </div>
     <div class="list-item">
       <p class="item-title">Uncertainty-Aware Multimodal Trajectory Prediction via a Single Inference from a Single Model</p>
+      <p class="item-desc">▷ Uncertainty Quantification / Trajectory Prediction / Autonomous Driving</p>
       <p class="item-desc"><b>Ho Suk</b>, Shiho Kim</p>
       <p class="item-desc">Sensors [Journal]</p>
       <p class="item-desc">2025.01</p>
@@ -156,42 +159,49 @@ description: "Ho Suk's Personal Website"
     </div>
     <div class="list-item">
       <p class="item-title">Uncertainty as a criterion for SOTIF evaluation of deep learning models in autonomous driving systems</p>
+      <p class="item-desc">▷ Uncertainty Quantification / Out-of-Distribution Detection / AI Safety / Trustworthy System / Autonomous Driving</p>
       <p class="item-desc"><b>Ho Suk</b>, Shiho Kim</p>
       <p class="item-desc">NeurIPS 2024 Workshop on Bayesian Decision-making and Uncertainty [Conference Workshop]</p>
       <p class="item-desc">2024.12</p>
     </div>
     <div class="list-item">
       <p class="item-title">Addressing uncertainty challenges for autonomous driving in real-world environments</p>
+      <p class="item-desc">▷ Uncertainty Quantification / Aleatoric Uncertainty / Epistemic Uncertainty / Driving-related Uncertainty</p>
       <p class="item-desc"><b>Ho Suk*</b>, Yerin Lee*, Taewoo Kim, Shiho Kim</p>
       <p class="item-desc">Advances in Computers [Journal]</p>
       <p class="item-desc">2023.07</p>
     </div>
     <div class="list-item">
       <p class="item-title">Offline reinforcement learning methods for real-world problems</p>
+      <p class="item-desc">▷ Reinforcement Learning / Offline Learning / Domain Generalization</p>
       <p class="item-desc">Taewoo Kim*, <b>Ho Suk*</b>, Shiho Kim</p>
       <p class="item-desc">Advances in Computers [Journal]</p>
       <p class="item-desc">2023.05</p>
     </div>
     <div class="list-item">
       <p class="item-title">Hardware Accelerators for Autonomous Vehicles</p>
+      <p class="item-desc">▷ Hardware Accelerator / ISO 26262 / ISO 21448 / Autonomous Vehicle</p>
       <p class="item-desc">Junekyo Jhung*, <b>Ho Suk*</b>, Hyungbin Park*, Shiho Kim</p>
       <p class="item-desc">Artificial Intelligence and Hardware Accelerators [Book]</p>
       <p class="item-desc">2023.03</p>
     </div>
     <div class="list-item">
       <p class="item-title">Rationale-aware Autonomous Driving Policy utilizing Safety Force Field implemented on CARLA Simulator</p>
+      <p class="item-desc">▷ Trajectory Prediction / Risk Assessment / Driving Policy / CARLA Simulator</p>
       <p class="item-desc"><b>Ho Suk*</b>, Taewoo Kim*, Hyungbin Park, Pamul Yadav, Junyong Lee, Shiho Kim</p>
       <p class="item-desc">NeurIPS 2022 Workshop: Machine Learning for Autonomous Driving [Conference Workshop]</p>
       <p class="item-desc">2022.12</p>
     </div>
     <div class="list-item">
       <p class="item-title">Verification and Validation of Euro NCAP Scenarios based on Simulation of Responsibility-Sensitive Safety (RSS) and Safety Force Field (SFF) Metrics</p>
+      <p class="item-desc">▷ Simulation-based Validation / Driving Policy / CARLA Simulator / Scenario Generation</p>
       <p class="item-desc"><b>Ho Suk*</b>, Junekyo Jhung*, Taewoo Kim, Hyungbin Park, Minseok Won, Cheolhee Yoon, Shiho Kim</p>
       <p class="item-desc">ASAM International Conference 2022 [Conference - Oral]</p>
       <p class="item-desc">2022.11</p>
     </div>
     <div class="list-item">
       <p class="item-title">Learning unsupervised disentangled skill latents to adapt unseen task and morphological modifications</p>
+      <p class="item-desc">▷ Reinforcement Learning / Variational AutoEncoder / Skill Latent Embedding / Zero-shot Adaptation</p>
       <p class="item-desc">Taewoo Kim, Pamul Yadav, <b>Ho Suk</b>, Shiho Kim</p>
       <p class="item-desc">Engineering Applications of Artificial Intelligence [Journal]</p>
       <p class="item-desc">2022.11</p>
@@ -199,6 +209,7 @@ description: "Ho Suk's Personal Website"
     <div class="list-item">
       <p class="item-title">Self-supervised Learning for Frontal Camera Input based Real-time Localization of Autonomous Vehicles</p>
       <p class="item-desc"><b>[KOR] 자율주행차를 위한 전방 카메라 이미지 기반 자가 지도 학습 실시간 위치 추정 기술</b></p>
+      <p class="item-desc">▷ Positioning / HD Map</p>
       <p class="item-desc">Taewoo Kim, <b>Ho Suk</b>, Junekyo Jhung, Hyungbin Park, Shiho Kim</p>
       <p class="item-desc">Summer Annual Conference of IEIE, 2021 [Conference]</p>
       <p class="item-desc">2021.06</p>
@@ -206,6 +217,7 @@ description: "Ho Suk's Personal Website"
     <div class="list-item">
       <p class="item-title">Passenger-oriented On-Demand Mobility Services using C-ITS-based Autonomous Vehicles</p>
       <p class="item-desc"><b>[KOR] C-ITS 기반 자율주행자동차를 활용한 승객 중심의 온-디맨드 운송 서비스</b></p>
+      <p class="item-desc">▷ Demand Responsive Transit / Autonomous Driving</p>
       <p class="item-desc"><b>Ho Suk</b>, Taewoo Kim, Hyungbin Park, Junekyo Jhung, Jaekwang Cha, Shiho Kim</p>
       <p class="item-desc">Summer Annual Conference of IEIE 2021 [Conference]</p>
       <p class="item-desc">2021.06</p>
@@ -213,12 +225,14 @@ description: "Ho Suk's Personal Website"
     </div>
     <div class="list-item">
       <p class="item-title">An open-world novelty generator for authoring reinforcement learning environment of standardized toolkits</p>
+      <p class="item-desc">▷ Reinforcement Learning / Environment Generation</p>
       <p class="item-desc">Sangho Lee, Junbeom Park, <b>Ho Suk</b>, Taewoo Kim, Pamul Yadav, Shiho Kim</p>
       <p class="item-desc">International Conference on Multi-disciplinary Trends in Artificial Intelligence 2021 [Conference]</p>
       <p class="item-desc">2021.06</p>
     </div>
     <div class="list-item">
       <p class="item-title">Self-Driving like a Human driver instead of a Robocar: Personalized comfortable driving experience for autonomous vehicles</p>
+      <p class="item-desc">▷ Ride Comfort / Manuever Control / Autonomous Driving</p>
       <p class="item-desc">Il Bae, Jaeyoung Moon, Junekyo Jhung, <b>Ho Suk</b>, Taewoo Kim, Hyunbin Park, Jaekwang Cha, Jinhyuk Kim, Dohyun Kim, Shiho Kim</p>
       <p class="item-desc">NeurIPS 2019 Workshop: Machine Learning for Autonomous Driving [Conference Workshop]</p>
       <p class="item-desc">2019.12</p>
