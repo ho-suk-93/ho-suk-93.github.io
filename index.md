@@ -26,6 +26,8 @@ description: "Ho Suk's Personal Website"
   </div>
 </section>
 
+<!-- ---------------------------------------------------------------------------------------------------- -->
+
 <section id="education" class="section">
   <div class="card">
     <div class="section-title">● Education</div>
@@ -44,6 +46,8 @@ description: "Ho Suk's Personal Website"
     </div>
   </div>
 </section>
+
+<!-- ---------------------------------------------------------------------------------------------------- -->
 
 <section id="expertise" class="section">
   <div class="card">
@@ -69,6 +73,8 @@ description: "Ho Suk's Personal Website"
     </div>
   </div>
 </section>
+
+<!-- ---------------------------------------------------------------------------------------------------- -->
 
 <section id="research" class="section">
   <div class="card">
@@ -119,6 +125,8 @@ description: "Ho Suk's Personal Website"
     </div>
   </div>
 </section>
+
+<!-- ---------------------------------------------------------------------------------------------------- -->
 
 <section id="publications" class="section">
   <div class="card">
@@ -215,6 +223,8 @@ description: "Ho Suk's Personal Website"
   </div>
 </section>
 
+<!-- ---------------------------------------------------------------------------------------------------- -->
+
 <section id="patents" class="section">
   <div class="card">
     <div class="section-title">● Patents</div>
@@ -235,6 +245,8 @@ description: "Ho Suk's Personal Website"
     </div>
   </div>
 </section>
+
+<!-- ---------------------------------------------------------------------------------------------------- -->
 
 <section id="projects" class="section">
   <div class="card">
@@ -257,6 +269,8 @@ description: "Ho Suk's Personal Website"
   </div>
 </section>
 
+<!-- ---------------------------------------------------------------------------------------------------- -->
+
 <section id="awards" class="section">
   <div class="card">
     <div class="section-title">● Awards</div>
@@ -272,11 +286,13 @@ description: "Ho Suk's Personal Website"
     </div>
     <div class="list-item">
       <p class="item-title">SERI (Samsung Economic Research Institute) 2nd Prize</p>
-      <p class="item-desc">SERI (Samsung Economic Research Institute) EU Academy 6th Cource</p>
+      <p class="item-desc">SERI (Samsung Economic Research Institute) EU Academy 6th Course</p>
       <p class="item-desc">2015.05</p>
     </div>
   </div>
 </section>
+
+<!-- ---------------------------------------------------------------------------------------------------- -->
 
 <section id="academic-services" class="section">
   <div class="card">
@@ -332,6 +348,8 @@ description: "Ho Suk's Personal Website"
   </div>
 </section>
 
+<!-- ---------------------------------------------------------------------------------------------------- -->
+
 <section id="skills" class="section">
   <div class="card">
     <div class="section-title">● Skills</div>
@@ -356,6 +374,8 @@ description: "Ho Suk's Personal Website"
     </div>
   </div>
 </section>
+
+<!-- ---------------------------------------------------------------------------------------------------- -->
 
 <section id="certificates" class="section">
   <div class="card">
@@ -395,6 +415,8 @@ description: "Ho Suk's Personal Website"
   </div>
 </section>
 
+<!-- ---------------------------------------------------------------------------------------------------- -->
+
 <section id="educational-programs" class="section">
   <div class="card">
     <div class="section-title">● Educational Programs</div>
@@ -421,6 +443,8 @@ description: "Ho Suk's Personal Website"
     </div>
   </div>
 </section>
+
+<!-- ---------------------------------------------------------------------------------------------------- -->
 
 <section id="other-services" class="section">
   <div class="card">
