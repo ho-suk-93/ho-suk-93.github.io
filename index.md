@@ -141,7 +141,8 @@ description: "Ho Suk's Personal Website"
       <p class="item-desc">2025.03</p>
     </div>
     <div class="list-item">
-      <p class="item-title">Automotive Software Development Methodologies and Standards</p>
+      <p class="item-title">Automotive Software Development Methodologies and Standards</p>      
+      <p class="item-desc">(KOR) 자동차 소프트웨어 개발 방법론 및 표준</p>
       <p class="item-desc"><b>Ho Suk</b></p>
       <p class="item-desc">Automotive Software [Book]</p>
       <p class="item-desc">2025.02</p>
@@ -197,12 +198,14 @@ description: "Ho Suk's Personal Website"
     </div>
     <div class="list-item">
       <p class="item-title">Self-supervised Learning for Frontal Camera Input based Real-time Localization of Autonomous Vehicles</p>
+      <p class="item-desc">(KOR) 자율주행차를 위한 전방 카메라 이미지 기반 자가 지도 학습 실시간 위치 추정 기술</p>
       <p class="item-desc">Taewoo Kim, <b>Ho Suk</b>, Junekyo Jhung, Hyungbin Park, Shiho Kim</p>
       <p class="item-desc">Summer Annual Conference of IEIE, 2021 [Conference]</p>
       <p class="item-desc">2021.06</p>
     </div>
     <div class="list-item">
       <p class="item-title">Passenger-oriented On-Demand Mobility Services using C-ITS-based Autonomous Vehicles</p>
+      <p class="item-desc">(KOR) C-ITS 기반 자율주행자동차를 활용한 승객 중심의 온-디맨드 운송 서비스</p>
       <p class="item-desc"><b>Ho Suk</b>, Taewoo Kim, Hyungbin Park, Junekyo Jhung, Jaekwang Cha, Shiho Kim</p>
       <p class="item-desc">Summer Annual Conference of IEIE 2021 [Conference]</p>
       <p class="item-desc">2021.06</p>
@@ -229,14 +232,14 @@ description: "Ho Suk's Personal Website"
   <div class="card">
     <div class="section-title">● Patents</div>
     <div class="list-item">
-      <p class="item-title">ANONYMOUS PATENT</p>
-      <p class="item-desc">(KOR)</p>
-      <p class="item-desc">Application Number: TBD (KOR)</p>
+      <p class="item-title">TBA</p>
+      <p class="item-desc">(KOR) TBA</p>
+      <p class="item-desc">Application Number: TBA (KOR)</p>
       <p class="item-desc">2026.01</p>
     </div>
     <div class="list-item">
       <p class="item-title">System and Method for Utilizing Deep Ensemble-based AI Model Uncertainty as a SOTIF Metric in Autonomous Driving Systems</p>
-      <p class="item-desc">(KOR)</p>
+      <p class="item-desc">(KOR) 딥 앙상블 기반 AI 모델의 불확실성을 자율주행시스템의 SOTIF 지표로 활용하는 장치 및 방법</p>
       <p class="item-desc">Application Number: 10-2025-0182105 (KOR)</p>
       <p class="item-desc">2025.11</p>
     </div>
