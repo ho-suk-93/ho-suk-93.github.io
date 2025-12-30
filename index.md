@@ -81,47 +81,47 @@ description: "Ho Suk's Personal Website"
     <div class="section-title">● Research Interests</div>
     <div class="list-item">
       <p class="item-title">Autonomous Driving / Autonomous Vehicle & Delivery Robot</p>
-      <p class="item-desc">Development of three autonomous vehicles to obtain autonomous driving permits from the Ministry of Land, Infrastructure and Transport of South Korea. Demonstration and deployment of autonomous agents in the dynamic real-world environment such as Seoul metropolitan area.</p>
+      <p class="item-desc">▶ Development of three autonomous vehicles to obtain autonomous driving permits from the Ministry of Land, Infrastructure and Transport of South Korea. Demonstration and deployment of autonomous agents in the dynamic real-world environment such as Seoul metropolitan area.</p>
     </div>
     <div class="list-item">
       <p class="item-title">Time-series Trajectory Prediction</p>
-      <p class="item-desc">Research on predicting the trajectory of agents, such as vehicles, using GNSS time-series data and images to understand their intentions and provide a basis for system's decision-making.</p>
+      <p class="item-desc">▶ Research on predicting the trajectory of agents, such as vehicles, using GNSS time-series data and images to understand their intentions and provide a basis for system's decision-making.</p>
     </div>
     <div class="list-item">
       <p class="item-title">Uncertainty Quantification</p>
-      <p class="item-desc">Research on quantifying the uncertainty in the predictions of deep learning models using methods such as Deep Ensembles, Monte Carlo Dropout, and Deterministic Single Forward Pass, thereby enabling robust decision-making even in ambiguous or unfamiliar data distributions.</p>
+      <p class="item-desc">▶ Research on quantifying the uncertainty in the predictions of deep learning models using methods such as Deep Ensembles, Monte Carlo Dropout, and Deterministic Single Forward Pass, thereby enabling robust decision-making even in ambiguous or unfamiliar data distributions.</p>
     </div>
     <div class="list-item">
       <p class="item-title">ISO Standard for Vehicle Safety (ISO 26262, ISO 21448)</p>
-      <p class="item-desc">Research on ISO 26262 Functional Safety, and ISO 21448 SOTIF for ensuring the safety of AI-based autonomous vehicles.</p>
+      <p class="item-desc">▶ Research on ISO 26262 Functional Safety, and ISO 21448 SOTIF for ensuring the safety of AI-based autonomous vehicles.</p>
     </div>
     <div class="list-item">
       <p class="item-title">Deep Reinforcement Learning</p>
-      <p class="item-desc">Research on training adaptive deep learning agents in environments that are difficult to define with loss functions using reward function-based reinforcement learning, and applying it to the decision systems of autonomous vehicles and autonomous delivery robots.</p>
+      <p class="item-desc">▶ Research on training adaptive deep learning agents in environments that are difficult to define with loss functions using reward function-based reinforcement learning, and applying it to the decision systems of autonomous vehicles and autonomous delivery robots.</p>
     </div>
     <div class="list-item">
       <p class="item-title">Simulation (CARLA, MuJoCo)</p>
-      <p class="item-desc">Utilization of the Unreal Engine 4-based CARLA simulator for autonomous driving and the MuJoCo simulator for reinforcement learning.</p>
+      <p class="item-desc">▶ Utilization of the Unreal Engine 4-based CARLA simulator for autonomous driving and the MuJoCo simulator for reinforcement learning.</p>
     </div>
     <div class="list-item">
       <p class="item-title">Positioning & Localization</p>
-      <p class="item-desc">Utilization of GNSS(Global Navigation Satellite System), RTK(Real-Time Kinematic), and INS(Inertial Navigation System) to achieve accurate positioning in urban areas with severe multipath phenomenon.</p>
+      <p class="item-desc">▶ Utilization of GNSS(Global Navigation Satellite System), RTK(Real-Time Kinematic), and INS(Inertial Navigation System) to achieve accurate positioning in urban areas with severe multipath phenomenon.</p>
     </div>
     <div class="list-item">
       <p class="item-title">Infrared Thermography</p>
-      <p class="item-desc">Utilization of LWIR(Long-Wave InfraRed) camera to perceive objects at night, in backlight, and in adverse weather conditions.</p>
+      <p class="item-desc">▶ Utilization of LWIR(Long-Wave InfraRed) camera to perceive objects at night, in backlight, and in adverse weather conditions.</p>
     </div>
     <div class="list-item">
       <p class="item-title">VLM for Autonomous Driving</p>
-      <p class="item-desc">Research on fine-tuning VLM(Vision-Language Model) using LoRA(Low-Rank Adaptation) and applying VLM to autonomous driving decision-making systems.</p>
+      <p class="item-desc">▶ Research on fine-tuning VLM(Vision-Language Model) using LoRA(Low-Rank Adaptation) and applying VLM to autonomous driving decision-making systems.</p>
     </div>
     <div class="list-item">
       <p class="item-title">Task/Domain Generalization</p>
-      <p class="item-desc">Research on Meta Learning, Transfer Learning, and Domain Adaptation for AI model's generalization on various task or domain.</p>
+      <p class="item-desc">▶ Research on Meta Learning, Transfer Learning, and Domain Adaptation for AI model's generalization on various task or domain.</p>
     </div>
     <div class="list-item">
       <p class="item-title">Zero-Knowledge Proof for Vehicle</p>
-      <p class="item-desc">Research on ZKP(Zero-Knowledge Proof) for V2X(Vehicle to Everything).</p>
+      <p class="item-desc">▶ Research on ZKP(Zero-Knowledge Proof) for V2X(Vehicle to Everything).</p>
     </div>
   </div>
 </section>
@@ -253,15 +253,16 @@ description: "Ho Suk's Personal Website"
     <div class="section-title">● Projects</div>
     <div class="list-item">
       <p class="item-title">Development of digital innovation elements to enhance the safety of complex autonomous mobility</p>
-      <p class="item-desc">Research and development of fault tolerant autonomous driving systems based on redundancy and DL uncertainty quantification.</p>
-      <p class="item-desc">Research and development of zero-knowledge proof-based inter-mobility communication.</p>
+      <p class="item-desc">▶ Research and development of fault tolerant autonomous driving systems based on redundancy and DL uncertainty quantification.</p>
+      <p class="item-desc">▶ Research and development of zero-knowledge proof-based inter-mobility communication.</p>
       <p class="item-desc">Sponsor: Ministry of Science and ICT of Korea</p>
       <p class="item-desc">2025.04 - In Progress</p>
     </div>
-
     <div class="list-item">
-      <p class="item-title">(Project 2)</p>
-      <p class="item-desc">(Role / Outcome / Tech)</p>
+      <p class="item-title">Development of an AI processor based on reinforcement learning that can adapt to dynamic environmental changes</p>
+      <p class="item-desc">▶ Research on RL-based autonomous driving decision algorithms for delivery robots</p>
+      <p class="item-desc">Sponsor: Ministry of Science and ICT of Korea</p>
+      <p class="item-desc">2022.04 - 2025.12</p>
     </div>
 
     <div class="list-item">
