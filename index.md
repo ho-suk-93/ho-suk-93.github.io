@@ -196,7 +196,7 @@ description: "Ho Suk's Personal Website"
     <div class="list-item">
       <p class="item-title">Passenger-oriented On-Demand Mobility Services using C-ITS-based Autonomous Vehicles</p>
       <p class="item-desc"><b>Ho Suk</b>, Taewoo Kim, Hyungbin Park, Junekyo Jhung, Jaekwang Cha, Shiho Kim</p>
-      <p class="item-desc">Summer Annual Conference of IEIE, 2021 [Conference]</p>
+      <p class="item-desc">Summer Annual Conference of IEIE 2021 [Conference]</p>
       <p class="item-desc">2021.06</p>
       <p class="item-desc">Awarded: <b>Hyundai Motor Group Paper Award</b></p>
     </div>
@@ -261,7 +261,8 @@ description: "Ho Suk's Personal Website"
   <div class="card">
     <div class="section-title">● Awards</div>
     <div class="list-item">
-      <p class="item-title">Hyundai Motor Group</p>
+      <p class="item-title">Hyundai Motor Group Paper Award</p>
+      <p class="item-desc">Summer Annual Conference of IEIE 2021</p>
       <p class="item-desc">2021.07</p>
     </div>
     <div class="list-item">
