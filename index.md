@@ -266,8 +266,8 @@ description: "Ho Suk's Personal Website"
       <p class="item-desc">2021.07</p>
     </div>
     <div class="list-item">
-      <p class="item-title">Yonsei University Leadership</p>
-      <p class="item-desc">Platinum Veritas Rank</p>
+      <p class="item-title">Yonsei University President Award Certificate</p>
+      <p class="item-desc">Leadership Development Certificate - Platinum Veritas Rank</p>
       <p class="item-desc">2017.01</p>
     </div>
     <div class="list-item">
