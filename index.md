@@ -260,7 +260,7 @@ description: "Ho Suk's Personal Website"
     <div class="list-item">
       <p class="item-title">Development of digital innovation elements to enhance the safety of complex autonomous mobility</p>
       <p class="item-desc"><b>[KOR] 복합 자율 모빌리티 안전성 향상을 위한 디지털 혁신요소기술 개발</b></p>
-      <p class="item-desc">▷ Research and development of fault tolerant autonomous driving systems based on redundancy and DL uncertainty quantification.</p>
+      <p class="item-desc">▷ Research and development of fault tolerant autonomous driving systems based on redundancy and deep learning uncertainty quantification.</p>
       <p class="item-desc">▷ Research and development of zero-knowledge proof-based inter-mobility communication.</p>
       <p class="item-desc">Sponsor: Ministry of Science and ICT of Korea</p>
       <p class="item-desc">2025.04 - In Progress</p>
@@ -268,30 +268,60 @@ description: "Ho Suk's Personal Website"
     <div class="list-item">
       <p class="item-title">Development of an AI processor based on reinforcement learning that can adapt to dynamic environmental changes</p>
       <p class="item-desc"><b>[KOR] 동적 환경 변화에 적응 가능한 강화학습 기반의 인공지능 프로세서 개발</b></p>
-      <p class="item-desc">▷ Research on RL-based autonomous driving decision algorithms for delivery robots.</p>
+      <p class="item-desc">▷ Researching the reinforcement learning-based autonomous driving decision algorithms for delivery robots.</p>
       <p class="item-desc">Sponsor: Ministry of Science and ICT of Korea</p>
       <p class="item-desc">2022.04 - 2025.12</p>
     </div>
     <div class="list-item">
       <p class="item-title">Development of technology to verify the effectiveness of service scenarios for responding to autonomous driving-related laws and regulations</p>
       <p class="item-desc"><b>[KOR] 자율주행 관련 법규 및 규제 대응 서비스 시나리오 실효성 검증 기술 개발</b></p>
-      <p class="item-desc">▷ Research on autonomous driving path prediction algorithms based on uncertainty in DNN model output.</p>
+      <p class="item-desc">▷ Researching the autonomous driving path prediction algorithms based on uncertainty in deep neural network model output.</p>
       <p class="item-desc">Sponsor: Ministry of Science and ICT of Korea</p>
       <p class="item-desc">2021.04 - 2024.12</p>
     </div>
     <div class="list-item">
       <p class="item-title">Development of AI technology that continuously self-improves in response to changing real-world situations</p>
       <p class="item-desc"><b>[KOR] 현실 세계에서 변화하는 상황에 따라 지속적으로 자가 개선하는 인공지능 기술 개발</b></p>
-      <p class="item-desc">▷ Research on RL algorithms that adapt to changes in environment and agent form.</p>
+      <p class="item-desc">▷ Researching the reinforcement learning algorithms that adapt to changes in environment and agent form.</p>
       <p class="item-desc">Sponsor: Ministry of Science and ICT of Korea</p>
       <p class="item-desc">2020.04 - 2021.12</p>
     </div>
     <div class="list-item">
       <p class="item-title">Establishment and demonstration of an autonomous car-sharing service linked to the Seoul C-ITS autonomous cooperative driving testbed</p>
       <p class="item-desc"><b>[KOR] 서울 C-ITS 자율협력주행 테스트베드와 연계한 자율주행 카셰어링 공유서비스 구축 및 실증</b></p>
-      <p class="item-desc">▷ Connecting Seoul's C-ITS (Cooperative Intelligent Transport Systems) and autonomous vehicles via 5G.</p>
+      <p class="item-desc">▷ Connecting the Seoul's C-ITS (Cooperative Intelligent Transport Systems) and autonomous vehicles via 5G.</p>
+      <p class="item-desc">▷ Establishing an autonomous car sharing service.</p>
       <p class="item-desc">Sponsor: Seoul Metropolitan Government</p>
-      <p class="item-desc">2020.04 - 2021.12</p>
+      <p class="item-desc">2019.12 - 2021.02</p>
+    </div>
+    <div class="list-item">
+      <p class="item-title">Seoul Smart Mobility Expo public test drive event</p>
+      <p class="item-desc"><b>[KOR] 서울 스마트 모빌리티 엑스포 공개시승행사</b></p>
+      <p class="item-desc">▷ Verifying the deep learning-based autonomous driving systems in complex scenarios.</p>
+      <p class="item-desc">Sponsor: Seoul Metropolitan Government</p>
+      <p class="item-desc">2019.10 - 2019.11</p>
+    </div>
+    <div class="list-item">
+      <p class="item-title">Sangam Autonomous Driving Festival public test drive event</p>
+      <p class="item-desc"><b>[KOR] 상암 자율주행 페스티벌 공개시승행사</b></p>
+      <p class="item-desc">▷ Implementing the multipath-robust INS (Inertial Navigation System) positioning system by integrating IMU (Inertial Measurement Unit) and RTK (Real-Time Kinematic) with GNSS (Global Navigation Satellite System)</p>
+      <p class="item-desc">Sponsor: Seoul Metropolitan Government / Ministry of Land, Infrastructure and Transport of Korea / Ministry of Science and ICT of Korea</p>
+      <p class="item-desc">2019.05 - 2019.06</p>
+    </div>
+    <div class="list-item">
+      <p class="item-title">Autonomous driving-based car sharing test operation event</p>
+      <p class="item-desc"><b>[KOR] 자율주행 기반 카셰어링 시험운영행사</b></p>
+      <p class="item-desc">▷ Implementing the GNSS-based autonomous driving call function.</p>
+      <p class="item-desc">Sponsor: Ministry of Land, Infrastructure and Transport of Korea / SK Telecom / Socar</p>
+      <p class="item-desc">2018.10 - 2018.11</p>
+    </div>
+    <div class="list-item">
+      <p class="item-title">Development of autonomous driving path planning and driving control technology</p>
+      <p class="item-desc"><b>[KOR] 자율주행 경로계획 및 주행제어 기술 개발</b></p>
+      <p class="item-desc">▷ Developing the deep learning-based autonomous vehicles.</p>
+      <p class="item-desc">▷ Implementing the camera-based perception and GNSS (Global Navigation Satellite System)-based positioning systems.</p>
+      <p class="item-desc">Sponsor: SK Telecom</p>
+      <p class="item-desc">2018.07 - 2020.02</p>
     </div>
   </div>
 </section>
