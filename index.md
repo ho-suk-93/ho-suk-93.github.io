@@ -272,7 +272,7 @@ description: "Ho Suk's Personal Website"
     </div>
     <div class="list-item">
       <p class="item-title">SERI (Samsung Economic Research Institute) 2nd Prize</p>
-      <p class="item-desc">SERI (Samsung Economic Research Institute) - EU Academy </p>
+      <p class="item-desc">SERI (Samsung Economic Research Institute) EU Academy 6th Cource</p>
       <p class="item-desc">2015.05</p>
     </div>
   </div>
