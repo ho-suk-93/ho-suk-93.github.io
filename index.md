@@ -33,6 +33,7 @@ description: "Ho Suk's Personal Website"
     <div class="section-title">● Education</div>
     <div class="list-item">
       <p class="item-title">Yonsei University - Ph.D. in Integrated Technology</p>
+      <p class="item-desc"><b>Interdisciplinary Major in Intelligent Semiconductor Technology</b></p>
       <p class="item-desc">Seoul, South Korea</p>
       <p class="item-desc">2018.07 - 2025.02</p>
       <p class="item-desc">GPA: 4.16/4.3 (4.29/4.5)</p>
