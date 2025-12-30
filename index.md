@@ -142,7 +142,7 @@ description: "Ho Suk's Personal Website"
     </div>
     <div class="list-item">
       <p class="item-title">Automotive Software Development Methodologies and Standards</p>      
-      <p class="item-desc">[KOR] 자동차 소프트웨어 개발 방법론 및 표준</p>
+      <p class="item-desc"><b>[KOR] 자동차 소프트웨어 개발 방법론 및 표준</b></p>
       <p class="item-desc"><b>Ho Suk</b></p>
       <p class="item-desc">Automotive Software [Book]</p>
       <p class="item-desc">2025.02</p>
@@ -198,14 +198,14 @@ description: "Ho Suk's Personal Website"
     </div>
     <div class="list-item">
       <p class="item-title">Self-supervised Learning for Frontal Camera Input based Real-time Localization of Autonomous Vehicles</p>
-      <p class="item-desc">[KOR] 자율주행차를 위한 전방 카메라 이미지 기반 자가 지도 학습 실시간 위치 추정 기술</p>
+      <p class="item-desc"><b>[KOR] 자율주행차를 위한 전방 카메라 이미지 기반 자가 지도 학습 실시간 위치 추정 기술</b></p>
       <p class="item-desc">Taewoo Kim, <b>Ho Suk</b>, Junekyo Jhung, Hyungbin Park, Shiho Kim</p>
       <p class="item-desc">Summer Annual Conference of IEIE, 2021 [Conference]</p>
       <p class="item-desc">2021.06</p>
     </div>
     <div class="list-item">
       <p class="item-title">Passenger-oriented On-Demand Mobility Services using C-ITS-based Autonomous Vehicles</p>
-      <p class="item-desc">[KOR] C-ITS 기반 자율주행자동차를 활용한 승객 중심의 온-디맨드 운송 서비스</p>
+      <p class="item-desc"><b>[KOR] C-ITS 기반 자율주행자동차를 활용한 승객 중심의 온-디맨드 운송 서비스</b></p>
       <p class="item-desc"><b>Ho Suk</b>, Taewoo Kim, Hyungbin Park, Junekyo Jhung, Jaekwang Cha, Shiho Kim</p>
       <p class="item-desc">Summer Annual Conference of IEIE 2021 [Conference]</p>
       <p class="item-desc">2021.06</p>
@@ -233,19 +233,19 @@ description: "Ho Suk's Personal Website"
     <div class="section-title">● Patents</div>
     <div class="list-item">
       <p class="item-title">TBA</p>
-      <p class="item-desc">[KOR] TBA</p>
+      <p class="item-desc"><b>[KOR] TBA</b></p>
       <p class="item-desc">Application Number: TBA (Korea)</p>
       <p class="item-desc">2026.01</p>
     </div>
     <div class="list-item">
       <p class="item-title">System and Method for Utilizing Deep Ensemble-based AI Model Uncertainty as a SOTIF Metric in Autonomous Driving Systems</p>
-      <p class="item-desc">[KOR] 딥 앙상블 기반 AI 모델의 불확실성을 자율주행시스템의 SOTIF 지표로 활용하는 장치 및 방법</p>
+      <p class="item-desc"><b>[KOR] 딥 앙상블 기반 AI 모델의 불확실성을 자율주행시스템의 SOTIF 지표로 활용하는 장치 및 방법</b></p>
       <p class="item-desc">Application Number: 10-2025-0182105 (Korea)</p>
       <p class="item-desc">2025.11</p>
     </div>
     <div class="list-item">
       <p class="item-title">Driving Automation Apparatus and Method</p>
-      <p class="item-desc">[KOR] 주행 자동화 장치 및 방법</p>
+      <p class="item-desc"><b>[KOR] 주행 자동화 장치 및 방법</b></p>
       <p class="item-desc">Application Number: 10-2023-0005272 (Korea)</p>
       <p class="item-desc">2023.01</p>
     </div>
@@ -259,7 +259,7 @@ description: "Ho Suk's Personal Website"
     <div class="section-title">● Projects</div>
     <div class="list-item">
       <p class="item-title">Development of digital innovation elements to enhance the safety of complex autonomous mobility</p>
-      <p class="item-desc">[KOR] 복합 자율 모빌리티 안전성 향상을 위한 디지털 혁신요소기술 개발</p>
+      <p class="item-desc"><b>[KOR] 복합 자율 모빌리티 안전성 향상을 위한 디지털 혁신요소기술 개발</b></p>
       <p class="item-desc">▷ Research and development of fault tolerant autonomous driving systems based on redundancy and DL uncertainty quantification.</p>
       <p class="item-desc">▷ Research and development of zero-knowledge proof-based inter-mobility communication.</p>
       <p class="item-desc">Sponsor: Ministry of Science and ICT of Korea</p>
@@ -267,28 +267,28 @@ description: "Ho Suk's Personal Website"
     </div>
     <div class="list-item">
       <p class="item-title">Development of an AI processor based on reinforcement learning that can adapt to dynamic environmental changes</p>
-      <p class="item-desc">[KOR] 동적 환경 변화에 적응 가능한 강화학습 기반의 인공지능 프로세서 개발</p>
+      <p class="item-desc"><b>[KOR] 동적 환경 변화에 적응 가능한 강화학습 기반의 인공지능 프로세서 개발</b></p>
       <p class="item-desc">▷ Research on RL-based autonomous driving decision algorithms for delivery robots.</p>
       <p class="item-desc">Sponsor: Ministry of Science and ICT of Korea</p>
       <p class="item-desc">2022.04 - 2025.12</p>
     </div>
     <div class="list-item">
       <p class="item-title">Development of technology to verify the effectiveness of service scenarios for responding to autonomous driving-related laws and regulations</p>
-      <p class="item-desc">[KOR] 자율주행 관련 법규 및 규제 대응 서비스 시나리오 실효성 검증 기술 개발</p>
+      <p class="item-desc"><b>[KOR] 자율주행 관련 법규 및 규제 대응 서비스 시나리오 실효성 검증 기술 개발</b></p>
       <p class="item-desc">▷ Research on autonomous driving path prediction algorithms based on uncertainty in DNN model output.</p>
       <p class="item-desc">Sponsor: Ministry of Science and ICT of Korea</p>
       <p class="item-desc">2021.04 - 2024.12</p>
     </div>
     <div class="list-item">
       <p class="item-title">Development of AI technology that continuously self-improves in response to changing real-world situations</p>
-      <p class="item-desc">[KOR] 현실 세계에서 변화하는 상황에 따라 지속적으로 자가 개선하는 인공지능 기술 개발</p>
+      <p class="item-desc"><b>[KOR] 현실 세계에서 변화하는 상황에 따라 지속적으로 자가 개선하는 인공지능 기술 개발</b></p>
       <p class="item-desc">▷ Research on RL algorithms that adapt to changes in environment and agent form.</p>
       <p class="item-desc">Sponsor: Ministry of Science and ICT of Korea</p>
       <p class="item-desc">2020.04 - 2021.12</p>
     </div>
     <div class="list-item">
       <p class="item-title">Establishment and demonstration of an autonomous car-sharing service linked to the Seoul C-ITS autonomous cooperative driving testbed</p>
-      <p class="item-desc">[KOR] 서울 C-ITS 자율협력주행 테스트베드와 연계한 자율주행 카셰어링 공유서비스 구축 및 실증</p>
+      <p class="item-desc"><b>[KOR] 서울 C-ITS 자율협력주행 테스트베드와 연계한 자율주행 카셰어링 공유서비스 구축 및 실증</b></p>
       <p class="item-desc">▷ Connecting Seoul's C-ITS (Cooperative Intelligent Transport Systems) and autonomous vehicles via 5G.</p>
       <p class="item-desc">Sponsor: Seoul Metropolitan Government</p>
       <p class="item-desc">2020.04 - 2021.12</p>
@@ -423,12 +423,14 @@ description: "Ho Suk's Personal Website"
     </div>    
     <div class="list-item">
       <p class="item-title">Engineer Information Processing</p>
+      <p class="item-desc"><b>[KOR] 정보처리기사</b></p>
       <p class="item-desc">Institution: Ministry of Science and ICT of Korea</p>
       <p class="item-desc">Issue Number: 18201050949Z</p>
       <p class="item-desc">2018.05.25</p>
     </div>
     <div class="list-item">
       <p class="item-title">Computer Specialist in Spreadsheet & Database Level-2</p>
+      <p class="item-desc"><b>[KOR] 컴퓨터활용능력 2급</b></p>
       <p class="item-desc">Institution: Ministry of Employment and Labor of Korea</p>
       <p class="item-desc">Issue Number: 15-K9-040429</p>
       <p class="item-desc">2015.07.17</p>
@@ -449,22 +451,26 @@ description: "Ho Suk's Personal Website"
     <div class="section-title">● Educational Programs</div>
     <div class="list-item">
       <p class="item-title">Samsung - SCSC (Samsung Convergence Software Course)</p>
+      <p class="item-desc"><b>[KOR] 삼성 - SCSC</b></p>
       <p class="item-desc">4th Course</p>
       <p class="item-desc">2015.09 - 2017.08</p>
     </div>
     <div class="list-item">
       <p class="item-title">SERI (Samsung Economic Research Institute) - EU Academy</p>
+      <p class="item-desc"><b>[KOR] 삼성경제연구소 - EU 아카데미</b></p>
       <p class="item-desc">6th Course (10 Classes)</p>
       <p class="item-desc">2015.03 - 2015.05</p>
       <p class="item-desc">Awarded: <b>2nd Prize</b></p>
     </div>
     <div class="list-item">
-      <p class="item-title">Financial Supervisory Service of Korea - Financial Academy</p>
+      <p class="item-title">Financial Supervisory Service of Korea - FSS Financial Academy</p>
+      <p class="item-desc"><b>[KOR] 금융감독원 - FSS 금융아카데미</b></p>
       <p class="item-desc">General Course (5 Classes)</p>
       <p class="item-desc">2015.03 - 2015.05</p>
     </div>
     <div class="list-item">
       <p class="item-title">Bank of Korea - Friday Lecture</p>
+      <p class="item-desc"><b>[KOR] 한국은행 - 금요강좌</b></p>
       <p class="item-desc">Basic Economics Course (25 Classes)</p>
       <p class="item-desc">2015.01 - 2016.02</p>
     </div>
@@ -478,16 +484,19 @@ description: "Ho Suk's Personal Website"
     <div class="section-title">● Other Services</div>
     <div class="list-item">
       <p class="item-title">Bank of Korea - Economic Education Volunteer Group</p>
+      <p class="item-desc"><b>[KOR] 한국은행 - 경제교육 봉사단</b></p>
       <p class="item-desc">2016.03 - 2016.12</p>
     </div>
     <div class="list-item">
       <p class="item-title">Yonsei University - Volunteer Coordinators (Volunteer Club)</p>
+      <p class="item-desc"><b>[KOR] 연세대학교 - 학생봉사팀장단</b></p>
       <p class="item-desc"><b>13th Head</b></p>
       <p class="item-desc">100 Hours of Service</p>
       <p class="item-desc">2015.03 - 2016.02</p>
     </div>
     <div class="list-item">
       <p class="item-title">Ministry of Strategy and Finance of Korea - University Student Economic Education Volunteer Group</p>
+      <p class="item-desc"><b>[KOR] 기획재정부 - 대학생 경제교육봉사단</b></p>
       <p class="item-desc">47 Hours of Service</p>
       <p class="item-desc">2014.09 - 2014.12</p>
     </div>
