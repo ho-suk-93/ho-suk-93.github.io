@@ -230,17 +230,20 @@ description: "Ho Suk's Personal Website"
     <div class="section-title">● Patents</div>
     <div class="list-item">
       <p class="item-title">ANONYMOUS PATENT</p>
-      <p class="item-desc">Application Number: TBD (KR)</p>
+      <p class="item-desc">(KOR)</p>
+      <p class="item-desc">Application Number: TBD (KOR)</p>
       <p class="item-desc">2026.01</p>
     </div>
     <div class="list-item">
       <p class="item-title">System and Method for Utilizing Deep Ensemble-based AI Model Uncertainty as a SOTIF Metric in Autonomous Driving Systems</p>
-      <p class="item-desc">Application Number: 10-2025-0182105 (KR)</p>
+      <p class="item-desc">(KOR)</p>
+      <p class="item-desc">Application Number: 10-2025-0182105 (KOR)</p>
       <p class="item-desc">2025.11</p>
     </div>
     <div class="list-item">
       <p class="item-title">Driving Automation Apparatus and Method</p>
-      <p class="item-desc">Application Number: 10-2023-0005272 (KR)</p>
+      <p class="item-desc">(KOR) 주행 자동화 장치 및 방법</p>
+      <p class="item-desc">Application Number: 10-2023-0005272 (KOR)</p>
       <p class="item-desc">2023.01</p>
     </div>
   </div>
@@ -253,6 +256,7 @@ description: "Ho Suk's Personal Website"
     <div class="section-title">● Projects</div>
     <div class="list-item">
       <p class="item-title">Development of digital innovation elements to enhance the safety of complex autonomous mobility</p>
+      <p class="item-desc">(KOR) 복합 자율 모빌리티 안전성 향상을 위한 디지털 혁신요소기술 개발</p>
       <p class="item-desc">▷ Research and development of fault tolerant autonomous driving systems based on redundancy and DL uncertainty quantification.</p>
       <p class="item-desc">▷ Research and development of zero-knowledge proof-based inter-mobility communication.</p>
       <p class="item-desc">Sponsor: Ministry of Science and ICT of Korea</p>
@@ -260,6 +264,7 @@ description: "Ho Suk's Personal Website"
     </div>
     <div class="list-item">
       <p class="item-title">Development of an AI processor based on reinforcement learning that can adapt to dynamic environmental changes</p>
+      <p class="item-desc">(KOR) 동적 환경 변화에 적응 가능한 강화학습 기반의 인공지능 프로세서 개발</p>
       <p class="item-desc">▷ Research on RL-based autonomous driving decision algorithms for delivery robots</p>
       <p class="item-desc">Sponsor: Ministry of Science and ICT of Korea</p>
       <p class="item-desc">2022.04 - 2025.12</p>
