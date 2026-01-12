@@ -30,7 +30,12 @@ description: "Ho Suk's Personal Website"
 
 <section id="education" class="section">
   <div class="card">
-    <div class="section-title">● Education</div>
+    <div class="section-title">● Career & Education</div>
+    <div class="list-item">
+      <p class="item-title">Yonsei University - Postdoctoral Researcher</p>
+      <p class="item-desc">Incheon, South Korea</p>
+      <p class="item-desc">2025.02 - Present</p>
+    </div>
     <div class="list-item">
       <p class="item-title">Yonsei University - Ph.D. in Integrated Technology</p>
       <p class="item-desc"><b>Interdisciplinary Major in Intelligent Semiconductor Technology</b></p>
