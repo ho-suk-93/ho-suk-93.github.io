@@ -34,7 +34,7 @@ description: "Ho Suk's Personal Website"
     <div class="list-item">
       <p class="item-title">Yonsei University - Postdoctoral Researcher</p>
       <p class="item-desc">Incheon, South Korea</p>
-      <p class="item-desc">2025.02 - Present</p>
+      <p class="item-desc">2025.03 - Present</p>
     </div>
     <div class="list-item">
       <p class="item-title">Yonsei University - Ph.D. in Integrated Technology</p>
@@ -532,6 +532,11 @@ description: "Ho Suk's Personal Website"
 <section id="other-services" class="section">
   <div class="card">
     <div class="section-title">● Other Services</div>
+    <div class="list-item">
+      <p class="item-title">Republic of Korea Army - Technical Research Personnel</p>
+      <p class="item-desc"><b>[KOR] 대한민국 육군 - 전문연구요원</b></p>
+      <p class="item-desc">2021.09 - 2024.08</p>
+    </div>
     <div class="list-item">
       <p class="item-title">Bank of Korea - Economic Education Volunteer Group</p>
       <p class="item-desc"><b>[KOR] 한국은행 - 경제교육 봉사단</b></p>
