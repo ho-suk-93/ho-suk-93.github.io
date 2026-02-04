@@ -252,9 +252,9 @@ description: "Ho Suk's Personal Website"
   <div class="card">
     <div class="section-title">● Patents</div>
     <div class="list-item">
-      <p class="item-title">Method and System for Anonymous Cooperative Perception using SIM-less Device-to-device Communication and Zero-knowledge Proofs-based Identity Verification</p>
-      <p class="item-desc"><b>[KOR] 단말 간의 심리스 직접 통신 및 영지식 신원 증명을 이용한 익명성 기반 협력 인지 방법 및 시스템</b></p>
-      <p class="item-desc">Application Number: TBA (Korea)</p>
+      <p class="item-title">Method and System for Anonymity-based Cooperative Perception using Zero-knowledge Identity Proofs</p>
+      <p class="item-desc"><b>[KOR] 영지식 신원 증명을 이용한 익명성 기반 협력 인지 방법 및 시스템</b></p>
+      <p class="item-desc">Application Number: 10-2026-0021434 (Korea)</p>
       <p class="item-desc">2026.02</p>
     </div>
     <div class="list-item">
