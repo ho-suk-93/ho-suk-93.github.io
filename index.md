@@ -46,7 +46,8 @@ description: "Ho Suk's Personal Website"
       <p class="item-desc">Advisor: Prof. Shiho Kim</p>
     </div>
     <div class="list-item">
-      <p class="item-title">Yonsei University - B.S. in Economics & Computer Sciences (Double Major)</p>
+      <p class="item-title">Yonsei University - B.S. in Economics & Computer Sciences</p>
+      <p class="item-desc"><b>Double Major</b></p>
       <p class="item-desc">Seoul, South Korea</p>
       <p class="item-desc">2012.03 - 2017.08</p>
     </div>
@@ -75,7 +76,7 @@ description: "Ho Suk's Personal Website"
       <div class="keyword-item">Infrared Thermography</div>
       <div class="keyword-item">VLM for Autonomous Driving</div>
       <div class="keyword-item">Task/Domain Generalization</div>
-      <div class="keyword-item">Zero-Knowledge Proof for Vehicle</div> 
+      <div class="keyword-item">Zero-Knowledge Proof</div> 
     </div>
   </div>
 </section>
