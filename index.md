@@ -37,7 +37,7 @@ description: "Ho Suk's Personal Website"
       <p class="item-desc">2025.03 - Present</p>
     </div>
     <div class="list-item">
-      <p class="item-title">Yonsei University - Ph.D. in Integrated Technology</p>
+      <p class="item-title">Yonsei University - Ph.D. in Engineering (Integrated Technology)</p>
       <p class="item-desc"><b>Interdisciplinary Major in Intelligent Semiconductor Technology</b></p>
       <p class="item-desc">Seoul, South Korea</p>
       <p class="item-desc">2018.07 - 2025.02</p>
