@@ -37,8 +37,9 @@ description: "Ho Suk's Personal Website"
       <p class="item-desc">2025.03 - Present</p>
     </div>
     <div class="list-item">
-      <p class="item-title">Yonsei University - Ph.D. in Engineering (Integrated Technology)</p>
-      <p class="item-desc"><b>Interdisciplinary Major in Intelligent Semiconductor Technology</b></p>
+      <p class="item-title">Yonsei University - Ph.D. in Engineering</p>      
+      <p class="item-desc"><b>Integrated Technology</b></p>
+      <p class="item-desc"><b>Intelligent Semiconductor Technology (Interdisciplinary Major)</b></p>
       <p class="item-desc">Seoul, South Korea</p>
       <p class="item-desc">2018.07 - 2025.02</p>
       <p class="item-desc">GPA: 4.16/4.3 (4.29/4.5)</p>
@@ -46,7 +47,8 @@ description: "Ho Suk's Personal Website"
       <p class="item-desc">Advisor: Prof. Shiho Kim</p>
     </div>
     <div class="list-item">
-      <p class="item-title">Yonsei University - B.S. of Arts & Science in Engineering (Economics & Computer Sciences and Engineering)</p>
+      <p class="item-title">Yonsei University - B.S. of Arts & Science in Engineering</p>
+      <p class="item-desc"><b>Economics & Computer Sciences and Engineering (Double Major)</b></p>
       <p class="item-desc"><b>Double Major</b></p>
       <p class="item-desc">Seoul, South Korea</p>
       <p class="item-desc">2012.03 - 2017.08</p>
