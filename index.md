@@ -46,7 +46,7 @@ description: "Ho Suk's Personal Website"
       <p class="item-desc">Advisor: Prof. Shiho Kim</p>
     </div>
     <div class="list-item">
-      <p class="item-title">Yonsei University - B.S. in Economics & Computer Sciences</p>
+      <p class="item-title">Yonsei University - B.S. of Arts & Science in Engineering (Economics & Computer Sciences and Engineering)</p>
       <p class="item-desc"><b>Double Major</b></p>
       <p class="item-desc">Seoul, South Korea</p>
       <p class="item-desc">2012.03 - 2017.08</p>
