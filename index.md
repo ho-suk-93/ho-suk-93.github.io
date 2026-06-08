@@ -535,6 +535,11 @@ description: "Ho Suk's Personal Website"
   <div class="card">
     <div class="section-title">● Other Services</div>
     <div class="list-item">
+      <p class="item-title">National IT Industry Promotion Agency (NIPA) - Evaluation Committee</p>
+      <p class="item-desc"><b>[KOR] 정보통신산업진흥원 - 평가위원</b></p>
+      <p class="item-desc">2026.06 - Present</p>
+    </div>
+    <div class="list-item">
       <p class="item-title">Republic of Korea Army - Technical Research Personnel</p>
       <p class="item-desc"><b>[KOR] 대한민국 육군 - 전문연구요원</b></p>
       <p class="item-desc">2021.09 - 2024.08</p>
