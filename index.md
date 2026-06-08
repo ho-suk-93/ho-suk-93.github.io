@@ -535,7 +535,7 @@ description: "Ho Suk's Personal Website"
   <div class="card">
     <div class="section-title">● Other Services</div>
     <div class="list-item">
-      <p class="item-title">National IT Industry Promotion Agency (NIPA) - Evaluation Committee</p>
+      <p class="item-title">National IT Industry Promotion Agency (NIPA) - Evaluation Committee Member</p>
       <p class="item-desc"><b>[KOR] 정보통신산업진흥원 - 평가위원</b></p>
       <p class="item-desc">2026.06 - Present</p>
     </div>
