@@ -34,7 +34,7 @@ description: "Ho Suk's Personal Website"
     <div class="list-item">
       <p class="item-title">Yonsei University - Postdoctoral Researcher</p>
       <p class="item-desc">Incheon, South Korea</p>
-      <p class="item-desc">2025.03 - Present</p>
+      <p class="item-desc">2025.03 - 2026.09</p>
     </div>
     <div class="list-item">
       <p class="item-title">Yonsei University - Ph.D. in Engineering</p>      
@@ -76,8 +76,8 @@ description: "Ho Suk's Personal Website"
       <div class="keyword-item">Positioning & Localization</div>
       <div class="keyword-item">Infrared Thermography</div>
       <div class="keyword-item">VLM for Autonomous Driving</div>
+      <div class="keyword-item">Zero-Knowledge Proof</div>
       <div class="keyword-item">Task/Domain Generalization</div>
-      <div class="keyword-item">Zero-Knowledge Proof</div> 
     </div>
   </div>
 </section>
@@ -124,12 +124,12 @@ description: "Ho Suk's Personal Website"
       <p class="item-desc">▷ Research on fine-tuning VLM(Vision-Language Model) using LoRA(Low-Rank Adaptation) and applying VLM to autonomous driving decision-making systems.</p>
     </div>
     <div class="list-item">
-      <p class="item-title">Task/Domain Generalization</p>
-      <p class="item-desc">▷ Research on Meta Learning, Transfer Learning, and Domain Adaptation for AI model's generalization on various task or domain.</p>
+      <p class="item-title">Zero-Knowledge Proof for Physical AI</p>
+      <p class="item-desc">▷ Research on ZKP(Zero-Knowledge Proof) for AI Robot and V2X(Vehicle to Everything).</p>
     </div>
     <div class="list-item">
-      <p class="item-title">Zero-Knowledge Proof for Vehicle</p>
-      <p class="item-desc">▷ Research on ZKP(Zero-Knowledge Proof) for V2X(Vehicle to Everything).</p>
+      <p class="item-title">Task/Domain Generalization</p>
+      <p class="item-desc">▷ Research on Meta Learning, Transfer Learning, and Domain Adaptation for AI model's generalization on various task or domain.</p>
     </div>
   </div>
 </section>
@@ -254,6 +254,12 @@ description: "Ho Suk's Personal Website"
   <div class="card">
     <div class="section-title">● Patents</div>
     <div class="list-item">
+      <p class="item-title">Method and System for Subscriber Module-Independent Access Authentication and Security Context Key Establishment in Mobile Communication Using Zero-Knowledge Proofs</p>
+      <p class="item-desc"><b>[KOR] 영지식 증명을 이용하는 이동통신 가입자 모듈 비의존 접속 인증 및 보안 컨텍스트 키 설정방법과 시스템</b></p>
+      <p class="item-desc">Application Number: 10-2026-0162204 (Korea)</p>
+      <p class="item-desc">2026.08</p>
+    </div>
+    <div class="list-item">
       <p class="item-title">Method and System for Anonymity-based Cooperative Perception using Zero-knowledge Identity Proofs</p>
       <p class="item-desc"><b>[KOR] 영지식 신원 증명을 이용한 익명성 기반 협력 인지 방법 및 시스템</b></p>
       <p class="item-desc">Application Number: 10-2026-0021434 (Korea)</p>
@@ -377,13 +383,13 @@ description: "Ho Suk's Personal Website"
   <div class="card">
     <div class="section-title">● Academic Services</div>
     <div class="list-item">
-      <p class="item-title">ACM WWW 2026 Workshop - Zero-knowledge proof And Blockchain for WEB 4.0: Advancing the Post-quantum And Decentralized era</p>
+      <p class="item-title">ACM WWW 2026 Workshop - Zero-knowledge proof And Blockchain for WEB 4.0: Advancing the Post-quantum And Decentralized era (ZABAPAD)</p>
       <p class="item-desc"><b>Organizer</b></p>
       <p class="item-desc">Dubai, United Arab Emirates</p>
       <p class="item-desc">2026.04</p>
     </div>
     <div class="list-item">
-      <p class="item-title">NeurIPS 2023 Workshop - Machine Learning for Autonomous Driving</p>
+      <p class="item-title">NeurIPS 2023 Workshop - Machine Learning for Autonomous Driving (ML4AD)</p>
       <p class="item-desc">Committee</p>
       <p class="item-desc">New Orleans, United States</p>
       <p class="item-desc">2023.12</p>
@@ -395,7 +401,7 @@ description: "Ho Suk's Personal Website"
       <p class="item-desc">2023.06</p>
     </div>
     <div class="list-item">
-      <p class="item-title">NeurIPS 2022 Workshop - Machine Learning for Autonomous Driving</p>
+      <p class="item-title">NeurIPS 2022 Workshop - Machine Learning for Autonomous Driving (ML4AD)</p>
       <p class="item-desc">Committee</p>
       <p class="item-desc">New Orleans, United States</p>
       <p class="item-desc">2022.12</p>
@@ -419,7 +425,7 @@ description: "Ho Suk's Personal Website"
       <p class="item-desc">2022.05</p>
     </div>
     <div class="list-item">
-      <p class="item-title">NeurIPS 2021 Workshop - Machine Learning for Autonomous Driving</p>
+      <p class="item-title">NeurIPS 2021 Workshop - Machine Learning for Autonomous Driving (ML4AD)</p>
       <p class="item-desc">Committee</p>
       <p class="item-desc">Virtual</p>
       <p class="item-desc">2021.12</p>
