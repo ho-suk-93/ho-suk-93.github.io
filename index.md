@@ -32,12 +32,18 @@ description: "Ho Suk's Personal Website"
   <div class="card">
     <div class="section-title">● Career & Education</div>
     <div class="list-item">
+      <p class="item-title">Samsung Electronics - Software Engineer</p>
+      <p class="item-desc"><b>Intelligent Platform Development Group</b></p>
+      <p class="item-desc">Suwon, South Korea</p>
+      <p class="item-desc">2026.10 - Present</p>
+    </div>
+    <div class="list-item">
       <p class="item-title">Yonsei University - Postdoctoral Researcher</p>
       <p class="item-desc">Incheon, South Korea</p>
       <p class="item-desc">2025.03 - 2026.09</p>
     </div>
     <div class="list-item">
-      <p class="item-title">Yonsei University - Ph.D. in Engineering</p>      
+      <p class="item-title">Yonsei University - Ph.D. in Engineering</p>
       <p class="item-desc"><b>Integrated Technology</b></p>
       <p class="item-desc"><b>Intelligent Semiconductor Technology (Interdisciplinary Major)</b></p>
       <p class="item-desc">Seoul, South Korea</p>
