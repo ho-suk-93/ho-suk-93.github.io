@@ -297,7 +297,7 @@ description: "Ho Suk's Personal Website"
       <p class="item-desc">▷ Research and development of fault tolerant autonomous driving systems based on redundancy and deep learning uncertainty quantification.</p>
       <p class="item-desc">▷ Research and development of zero-knowledge proof-based inter-mobility communication.</p>
       <p class="item-desc">Sponsor: Ministry of Science and ICT of Korea</p>
-      <p class="item-desc">2025.04 - In Progress</p>
+      <p class="item-desc">2025.04 - 2026.09</p>
     </div>
     <div class="list-item">
       <p class="item-title">Development of an AI processor based on reinforcement learning that can adapt to dynamic environmental changes</p>
