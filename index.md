@@ -33,7 +33,7 @@ description: "Ho Suk's Personal Website"
     <div class="section-title">● Career & Education</div>
     <div class="list-item">
       <p class="item-title">Samsung Electronics - Software Engineer</p>
-      <p class="item-desc"><b>Intelligent Platform Development Group</b></p>
+      <p class="item-desc"><b>Intelligent Platform R&D Group</b></p>
       <p class="item-desc">Suwon, South Korea</p>
       <p class="item-desc">2026.10 - Present</p>
     </div>
